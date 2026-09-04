@@ -1,0 +1,65 @@
+Raw dataset shape: 1225 rows x 13 columns
+
+Missing values (raw):
+OrderID               0
+OrderDate             0
+DeliveryDate        244
+OriginCity            0
+DestinationCity       0
+Carrier              24
+TransportMode         0
+Warehouse             0
+Weight_kg            48
+Distance_km          36
+ShippingCost_INR     62
+CustomerRating       74
+DeliveryStatus        0
+
+Duplicate rows removed: 23
+
+Negative distance values corrected (sign flipped): 5
+
+Missing values after imputation:
+OrderID               0
+OrderDate             0
+DeliveryDate        240
+OriginCity            0
+DestinationCity       0
+Carrier               0
+TransportMode         0
+Warehouse             0
+Weight_kg             0
+Distance_km           0
+ShippingCost_INR      0
+CustomerRating        0
+DeliveryStatus        0
+
+Weight_kg: 59 outliers capped to range [-19.18, 74.83]
+
+Distance_km: 70 outliers capped to range [-242.89, 1039.61]
+
+ShippingCost_INR: 38 outliers capped to range [-30.91, 456.52]
+
+Final cleaned dataset shape: 1202 rows x 20 columns
+
+Remaining missing values (post-clean):
+OrderID                      0
+OrderDate                    0
+DeliveryDate               240
+OriginCity                   0
+DestinationCity              0
+Carrier                      0
+TransportMode                0
+Warehouse                    0
+Weight_kg                    0
+Distance_km                  0
+ShippingCost_INR             0
+CustomerRating               0
+DeliveryStatus               0
+TransitDays                240
+Weight_kg_MinMax             0
+Distance_km_MinMax           0
+ShippingCost_INR_MinMax      0
+Weight_kg_Zscore             0
+Distance_km_Zscore           0
+ShippingCost_INR_Zscore      0

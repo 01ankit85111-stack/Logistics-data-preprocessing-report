@@ -1,0 +1,1226 @@
+OrderID,OrderDate,DeliveryDate,OriginCity,DestinationCity,Carrier,TransportMode,Warehouse,Weight_kg,Distance_km,ShippingCost_INR,CustomerRating,DeliveryStatus
+ORD10831,2024-02-16,,Chennai,Delhi,DHL,Sea,WH-Central,26.2,1697.8,380.78,5.0,Cancelled
+ORD10916,2024-03-12,,Kolkata,Hyderabad,DHL,Road,WH-South,88.37,110.5,491.02,2.0,Delayed
+ORD10515,2024-04-11,2024-04-12,Hyderabad,Chennai,,Air,WH-Central,46.05,147.1,282.71,4.0,Delivered
+ORD10502,2024-01-14,2024-01-15,Pune,Mumbai,Delhivery,Air,WH-Central,7.53,120.9,131.5,4.0,Delivered
+ORD10491,2024-12-10,2024-12-13,Lucknow,Ahmedabad,BlueDart,Road,WH-East,28.85,271.8,102.71,,Delivered
+ORD11033,2024-09-10,2024-09-11,Delhi,Pune,Delhivery,Air,WH-Central,21.65,159.5,,4.0,Delivered
+ORD10245,2024-07-02,,Hyderabad,Lucknow,Ekart,Road,WH-North,13.88,272.6,,5.0,In Transit
+ORD10116,2024-12-05,2024-12-15,chennai,Hyderabad,FedEx,Rail,WH-East,49.15,1223.5,381.7,5.0,Delivered
+ORD10969,2024-04-16,2024-04-20,Jaipur,Pune,Ekart,Road,WH-Central,11.62,508.2,116.28,4.0,Delivered
+ORD10236,2024-07-07,2024-07-13,Mumbai,Ahmedabad,DHL,Rail,WH-East,42.32,769.6,356.6,3.0,Delivered
+ORD10913,2024-04-18,2024-04-27,Kolkata,Lucknow,XpressBees,Sea,WH-Central,24.45,1136.1,234.87,4.0,Delivered
+ORD10713,2024-10-09,2024-10-12,Bengaluru,Kolkata,XpressBees,Road,WH-East,9.44,441.5,173.79,1.0,Delivered
+ORD10956,2024-05-23,2024-05-27,Chennai,Kolkata,DHL,Road,WH-East,37.73,409.2,314.77,5.0,Delivered
+ORD10685,2024-07-11,2024-07-19,Jaipur,Ahmedabad,XpressBees,Sea,WH-Central,16.99,536.7,189.68,5.0,Delivered
+ORD10930,2024-08-07,2024-08-08,Lucknow,Mumbai,Delhivery,Air,WH-North,30.14,150.9,2215.2479794834926,1.0,Delivered
+ORD10509,2024-11-07,,Jaipur,Ahmedabad,DHL,Road,WH-North,47.55,239.2,289.09,4.0,In Transit
+ORD10530,23/05/2024,2024-05-27,Lucknow,Jaipur,FedEx,Road,WH-East,7.73,437.7,128.12,4.0,Delivered
+ORD10295,2024-05-08,2024-05-13,Kolkata,Mumbai,  XpressBees  ,Road,WH-East,16.24,413.1,153.4,4.0,Delivered
+ORD10143,2024-02-03,2024-02-07,Delhi,Bengaluru,Ekart,Rail,WH-Central,24.74,398.6,214.67,4.0,Delivered
+ORD10160,2024-07-22,2024-07-23,Chennai,Lucknow,Delhivery,Air,WH-North,27.29,90.9,230.66,4.0,Delivered
+ORD11164,2024-03-17,2024-03-19,Jaipur,Bengaluru,FedEx,Road,WH-East,42.91,214.4,297.81,4.0,Delivered
+ORD10623,2024-03-19,2024-03-23,Lucknow,Jaipur,DHL,Road,WH-East,14.04,595.5,244.77,5.0,Delivered
+ORD10403,2024-03-02,2024-03-08,Chennai,Hyderabad,Delhivery,Road,WH-South,8.61,697.6,77.29,5.0,Delivered
+ORD10669,2024-12-30,2025-01-16,Mumbai,Chennai,Ekart,Sea,WH-South,,1988.3,,4.0,Delivered
+ORD10351,2024-03-25,2024-03-29,Lucknow,Jaipur,DHL,Road,WH-Central,20.02,332.1,184.69,5.0,Delivered
+ORD11096,2024-05-16,2024-05-20,Jaipur,Bengaluru,XpressBees,Road,WH-South,5.56,515.0,112.75,2.0,Delivered
+ORD10612,2024-03-17,,Hyderabad,Jaipur,Delhivery,Rail,WH-East,39.22,372.2,300.73,2.0,Delayed
+ORD10154,2024-10-14,2024-10-17,Hyderabad,Ahmedabad,DHL,Road,WH-East,30.06,500.1,196.57,5.0,Delivered
+ORD11012,2024-01-29,2024-02-04,Jaipur,Lucknow,BlueDart,Rail,WH-West,5.96,908.3,1713.1624686370337,5.0,Delivered
+ORD10781,2024-05-05,2024-05-05,Hyderabad,Jaipur,BlueDart,Road,WH-Central,22.44,35.6,88.82,3.0,Delivered
+ORD10682,2024-07-28,2024-08-01,Ahmedabad,Pune,Ekart,Road,WH-East,27.22,,318.82,4.0,Delivered
+ORD10397,2024-04-25,2024-04-29,Lucknow,Chennai,Ekart,Road,WH-West,23.42,438.6,238.95,3.0,Delivered
+ORD10785,2024-02-03,2024-02-08,Hyderabad,Kolkata,FedEx,Road,WH-East,47.55,436.3,300.25,5.0,Delivered
+ORD10300,2024-04-24,2024-04-27,Hyderabad,Jaipur,DHL,Road,WH-South,,277.9,53.89,2.0,Delivered
+ORD10894,2024-07-02,2024-07-05,Jaipur,Delhi,Delhivery,Road,WH-North,13.8,313.1,134.87,5.0,Delivered
+ORD10708,2024-06-24,,Chennai,Kolkata,FedEx,Air,WH-South,36.71,138.8,207.36,,In Transit
+ORD10225,2024-03-22,2024-04-07,Bengaluru,Pune,FedEx,Sea,WH-East,44.49,1536.9,330.67,5.0,Delivered
+ORD10172,2024-08-16,2024-09-02,Jaipur,Hyderabad,  BlueDart  ,Sea,WH-South,57.47,1650.8,445.27,3.0,Delivered
+ORD11053,2024-05-31,2024-06-04,Lucknow,Hyderabad,FedEx,Road,WH-West,10.91,467.9,153.66,4.0,Delivered
+ORD10483,2024-11-03,2024-11-16,Hyderabad,Bengaluru,Ekart,Sea,WH-South,25.01,1129.0,197.16,5.0,Delivered
+ORD10582,2024-07-11,,Jaipur,Mumbai,DHL,Road,WH-North,43.78,326.3,273.21,5.0,Delayed
+ORD11188,2024-01-22,2024-01-26,Pune,Jaipur,Ekart,Road,WH-South,9.96,,191.75,5.0,Delivered
+ORD10955,2024-05-26,2024-05-28,Delhi,Lucknow,DHL,Road,WH-South,14.34,322.6,136.24,4.0,Delivered
+ORD10671,2024-08-20,,kolkata,Pune,  XpressBees  ,Road,WH-West,26.0,739.2,272.37,5.0,Delayed
+ORD10063,2024-02-11,2024-02-14,Chennai,Lucknow,Ekart,Rail,WH-East,51.4,345.7,299.06,4.0,Delivered
+ORD10450,2024-11-21,,Kolkata,Pune,DHL,Road,WH-West,45.72,625.6,321.03,1.0,Delayed
+ORD10292,2024-10-26,2024-11-06,Pune,Chennai,DHL,Sea,WH-North,83.2,1024.6,538.76,4.0,Delivered
+ORD10088,2024-03-30,,Mumbai,Pune,DHL,Air,WH-Central,20.15,109.2,112.28,5.0,Delayed
+ORD11065,2024-09-06,,Mumbai,Pune,BlueDart,Road,WH-South,35.37,636.4,333.31,4.0,Cancelled
+ORD10572,2024-07-11,2024-07-17,Kolkata,Chennai,DHL,Rail,WH-East,39.71,493.5,319.54,5.0,Delivered
+ORD11154,2024-10-10,2024-10-11,Chennai,Ahmedabad,XpressBees,Air,WH-North,73.51,215.8,390.3,3.0,Delivered
+ORD10726,2024-12-03,2024-12-08,Kolkata,Chennai,Delhivery,Road,WH-South,36.25,411.6,182.43,3.0,Delivered
+ORD10643,2024-10-01,2024-10-20,Jaipur,Pune,Delhivery,Sea,WH-East,16.96,1260.6,233.52,3.0,Delivered
+ORD10655,2024-07-21,2024-07-31,Mumbai,Kolkata,Delhivery,Sea,WH-Central,,859.6,187.28,1.0,Delivered
+ORD10214,2024-06-06,2024-06-08,Hyderabad,Delhi,XpressBees,Road,WH-Central,6.32,261.2,88.67,5.0,Delivered
+ORD10495,2024-04-23,2024-04-27,Chennai,Ahmedabad,BlueDart,Road,WH-South,33.05,535.1,263.64,3.0,Delivered
+ORD10668,2024-12-11,2024-12-12,Pune,Ahmedabad,Delhivery,Air,WH-South,24.86,94.6,124.38,4.0,Delivered
+ORD10405,2024-07-31,2024-08-02,Pune,Jaipur,BlueDart,Air,WH-West,33.13,210.5,228.39,4.0,Delivered
+ORD10718,2024-06-17,2024-06-27,Delhi,Pune,Delhivery,Sea,WH-North,32.61,941.6,303.04,4.0,Delivered
+ORD10983,2024-08-07,2024-08-08,Jaipur,Hyderabad,,Air,WH-Central,13.95,166.4,153.03,5.0,Delivered
+ORD11197,2024-05-08,,Kolkata,Ahmedabad,BlueDart,Road,WH-Central,42.61,410.8,321.36,5.0,Delayed
+ORD10756,2024-04-10,2024-04-14,Pune,Lucknow,DHL,Road,WH-Central,60.13,399.8,387.89,5.0,Delivered
+ORD10390,2024-02-19,2024-02-19,Hyderabad,Delhi,Ekart,Air,WH-South,12.47,103.9,97.95,5.0,Delivered
+ORD10053,2024-10-07,2024-10-10,Delhi,Jaipur,Delhivery,Road,WH-Central,10.18,334.3,104.21,4.0,Delivered
+ORD11023,2024-06-12,2024-06-16,Mumbai,Kolkata,Delhivery,Rail,WH-South,41.89,429.3,267.93,4.0,Delivered
+ORD10939,2024-10-18,2024-10-21,Mumbai,Ahmedabad,,Road,WH-West,4.66,321.2,130.98,5.0,Delivered
+ORD10017,2024-11-21,2024-11-26,Hyderabad,Pune,XpressBees,Road,WH-East,36.93,578.7,206.22,5.0,Delivered
+ORD10167,2024-02-08,2024-02-10,Bengaluru,Mumbai,FedEx,Air,WH-East,11.05,287.8,142.9,2.0,Delivered
+ORD10714,2024-10-03,2024-10-09,Kolkata,Delhi,Delhivery,Rail,WH-North,45.9,696.1,329.67,5.0,Delivered
+ORD10656,2024-06-14,2024-06-15,Ahmedabad,Mumbai,Ekart,Air,WH-Central,20.12,96.0,104.03,4.0,Delivered
+ORD10619,2024-11-15,2024-11-16,delhi,Chennai,Delhivery,Air,WH-South,36.58,210.7,,4.0,Delivered
+ORD10875,2024-06-11,2024-06-14,Bengaluru,Hyderabad,Delhivery,Road,WH-Central,16.5,401.1,165.62,,Delivered
+ORD10657,2024-07-15,2024-07-18,Pune,Kolkata,Ekart,Road,WH-North,18.13,451.3,,1.0,Delivered
+ORD10107,2024-01-13,2024-01-18,Ahmedabad,Hyderabad,FedEx,Road,WH-East,7.88,366.8,139.97,,Delivered
+ORD10425,2024-04-18,,Delhi,Chennai,DHL,Road,WH-Central,17.26,191.5,149.12,3.0,Delayed
+ORD10537,2024-12-14,2024-12-17,Mumbai,Chennai,XpressBees,Road,WH-West,6.72,497.1,158.7,,Delivered
+ORD10649,2024-02-24,2024-02-24,Chennai,Jaipur,DHL,Air,WH-Central,34.94,48.4,195.37,2.0,Delivered
+ORD10841,2024-05-28,,Bengaluru,Mumbai,DHL,Road,WH-East,35.59,363.1,279.01,5.0,Delayed
+ORD10630,2024-06-26,2024-06-27,Mumbai,Kolkata,FedEx,Air,WH-Central,48.48,,221.58,5.0,Delivered
+ORD10519,2024-01-13,2024-01-14,Bengaluru,Hyderabad,DHL,Air,WH-West,63.08,148.0,360.37,5.0,Delivered
+ORD10754,2024-01-14,,Jaipur,Chennai,Ekart,Rail,WH-East,80.57,844.7,475.99,4.0,In Transit
+ORD10002,2024-01-17,2024-01-20,Bengaluru,Ahmedabad,FedEx,Rail,WH-West,33.0,533.9,217.19,5.0,Delivered
+ORD10825,2024-05-23,,Ahmedabad,Chennai,DHL,Road,WH-West,16.63,289.9,152.84,,Delayed
+ORD10042,2024-06-22,2024-06-26,Ahmedabad,Pune,Delhivery,Road,WH-East,16.25,638.1,209.89,2.0,Delivered
+ORD10590,2024-04-25,,Pune,Ahmedabad,Ekart,Road,WH-East,25.64,493.8,263.23,3.0,Cancelled
+ORD10086,2024-10-22,2024-10-23,Bengaluru,Lucknow,Delhivery,Air,WH-South,87.63,166.5,402.48,5.0,Delivered
+ORD10647,2024-01-24,2024-01-25,Bengaluru,Chennai,FedEx,Road,WH-Central,50.34,219.8,236.48,5.0,Delivered
+ORD10372,2024-09-26,2024-09-27,Mumbai,Hyderabad,  FedEx  ,Air,WH-Central,10.27,105.3,121.45,4.0,Delivered
+ORD10213,2024-08-18,2024-08-20,Lucknow,Mumbai,Delhivery,Road,WH-Central,22.1,275.7,171.66,5.0,Delivered
+ORD10542,2024-09-24,2024-09-28,Ahmedabad,Pune,Ekart,Road,WH-North,6.99,633.7,,4.0,Delivered
+ORD10430,2024-01-09,2024-01-24,Bengaluru,Jaipur,Ekart,Sea,WH-East,48.06,2191.9,461.11,4.0,Delivered
+ORD10798,2024-01-08,2024-01-11,Bengaluru,Pune,BlueDart,Road,WH-Central,30.15,387.4,215.93,5.0,Delivered
+ORD10880,2024-09-08,2024-09-09,Lucknow,Chennai,Ekart,Air,WH-Central,18.38,114.6,105.87,2.0,Delivered
+ORD10065,2024-06-04,2024-06-06,Pune,Mumbai,Ekart,Road,WH-East,15.55,293.9,188.64,4.0,Delivered
+ORD10777,2024-06-28,2024-06-29,Mumbai,Chennai,XpressBees,Air,WH-Central,12.0,193.4,132.46,,Delivered
+ORD10266,04/05/2024,,Chennai,Bengaluru,DHL,Sea,WH-East,27.83,,333.5,4.0,In Transit
+ORD10885,2024-10-26,2024-10-26,Pune,Lucknow,Ekart,Air,WH-West,16.06,77.0,103.99,1.0,Delivered
+ORD10862,2024-05-06,2024-05-10,Hyderabad,Kolkata,Ekart,Road,WH-Central,26.57,475.3,130.12,5.0,Delivered
+ORD10654,2024-10-06,2024-10-07,Jaipur,Ahmedabad,FedEx,Air,WH-North,25.59,126.2,,5.0,Delivered
+ORD10333,2024-10-24,2024-10-28,Pune,Lucknow,XpressBees,Road,WH-South,14.08,509.3,137.98,4.0,Delivered
+ORD10407,2024-08-25,2024-08-26,Kolkata,Mumbai,Delhivery,Air,WH-West,8.67,150.7,117.42,5.0,Delivered
+ORD10982,2024-01-01,2024-01-05,Ahmedabad,Delhi,FedEx,Road,WH-North,27.49,400.0,198.89,,Delivered
+ORD10675,2024-11-24,2024-11-28,Pune,Kolkata,XpressBees,Road,WH-East,17.02,316.3,105.33,3.0,Delivered
+ORD10932,2024-10-20,2024-10-22,Delhi,Mumbai,DHL,Road,WH-North,,204.7,330.65,2.0,Delivered
+ORD11120,2024-12-22,2024-12-29,Chennai,Kolkata,Ekart,Road,WH-South,43.84,506.6,219.67,4.0,Delivered
+ORD10253,2024-08-11,2024-08-12,Pune,Mumbai,Ekart,Air,WH-South,34.02,219.7,255.22,3.0,Delivered
+ORD10129,2024-05-14,2024-05-16,Bengaluru,Lucknow,XpressBees,Road,WH-South,36.18,176.9,229.12,4.0,Delivered
+ORD10780,2024-03-24,2024-03-29,Chennai,Jaipur,FedEx,Road,WH-West,31.53,569.0,229.08,,Delivered
+ORD10420,2024-04-23,2024-04-27,Delhi,Pune,Delhivery,Road,WH-South,34.59,276.1,167.0,3.0,Delivered
+ORD10716,2024-04-06,2024-04-11,Hyderabad,Bengaluru,FedEx,Road,WH-North,24.67,653.5,196.8,,Delivered
+ORD10124,2024-06-13,2024-06-16,Kolkata,Lucknow,  Delhivery  ,Road,WH-West,57.39,385.4,295.39,5.0,Delivered
+ORD10307,2024-12-05,2024-12-06,Mumbai,Delhi,FedEx,Air,WH-West,11.35,188.0,-0.16,4.0,Delivered
+ORD10207,2024-04-30,2024-05-01,Lucknow,Bengaluru,BlueDart,Air,WH-West,34.61,180.4,215.81,5.0,Delivered
+ORD10742,2024-05-31,,Delhi,Ahmedabad,XpressBees,Road,WH-Central,32.29,615.7,165.95,4.0,In Transit
+ORD10603,2024-06-15,2024-06-19,Hyderabad,Pune,Ekart,Road,WH-South,,538.7,444.11,4.0,Delivered
+ORD11132,2024-12-16,2024-12-31,Delhi,Mumbai,DHL,Sea,WH-West,26.76,1126.8,273.82,4.0,Delivered
+ORD10562,2024-08-22,2024-08-27,Ahmedabad,Hyderabad,BlueDart,Road,WH-North,29.04,446.1,159.15,4.0,Delivered
+ORD10702,2024-05-25,2024-05-29,Bengaluru,Jaipur,FedEx,Road,WH-East,49.63,638.7,316.91,5.0,Delivered
+ORD10365,2024-05-07,2024-05-12,Mumbai,Jaipur,FedEx,Road,WH-South,64.13,349.8,307.6,1.0,Delivered
+ORD10234,2024-01-21,2024-01-26,Jaipur,Bengaluru,XpressBees,Road,WH-East,37.01,584.3,257.15,4.0,Delivered
+ORD10998,2024-04-05,,Hyderabad,Ahmedabad,BlueDart,Road,WH-Central,60.23,304.8,422.88,5.0,In Transit
+ORD10734,2024-03-17,2024-03-20,Jaipur,Lucknow,DHL,Road,WH-South,48.1,211.1,255.7,4.0,Delivered
+ORD10257,2024-09-15,2024-09-20,Chennai,Kolkata,DHL,Rail,WH-North,,699.4,531.46,2.0,Delivered
+ORD10146,2024-10-04,2024-10-06,Jaipur,Chennai,FedEx,Road,WH-East,9.11,190.9,73.58,5.0,Delivered
+ORD10832,2024-07-03,2024-07-07,Kolkata,Bengaluru,Ekart,Road,WH-South,,458.5,292.01,4.0,Delivered
+ORD10415,2024-01-12,2024-01-15,Mumbai,Delhi,FedEx,Road,WH-Central,28.59,280.6,117.11,5.0,Delivered
+ORD10144,2024-09-08,,Ahmedabad,Bengaluru,XpressBees,Rail,WH-Central,46.8,479.9,,3.0,Delayed
+ORD11039,2024-02-21,2024-02-27,Mumbai,Pune,BlueDart,Road,WH-West,62.35,551.2,437.04,4.0,Delivered
+ORD10025,2024-03-31,2024-04-05,Kolkata,Pune,Ekart,Road,WH-South,13.65,382.5,159.78,4.0,Delivered
+ORD10153,2024-08-10,2024-08-13,chennai,Pune,,Road,WH-West,,484.1,216.36,2.0,Delivered
+ORD11075,2024-03-05,2024-03-12,Ahmedabad,Delhi,  XpressBees  ,Rail,WH-South,102.36,790.6,568.46,4.0,Delivered
+ORD10350,2024-04-17,,chennai,Jaipur,BlueDart,Road,WH-Central,8.13,345.3,156.79,5.0,In Transit
+ORD10707,2024-06-05,,Kolkata,Bengaluru,Ekart,Road,WH-Central,20.92,334.3,209.6,1.0,Cancelled
+ORD10593,2024-05-04,2024-05-05,Pune,Jaipur,,Air,WH-West,24.82,115.7,162.09,4.0,Delivered
+ORD10774,2024-08-19,2024-08-21,Pune,Bengaluru,Ekart,Air,WH-South,11.76,129.2,,5.0,Delivered
+ORD11008,2024-04-26,2024-04-29,jaipur,Hyderabad,DHL,Road,WH-East,15.69,403.4,165.62,4.0,Delivered
+ORD11006,2024-07-28,2024-08-02,Pune,Kolkata,XpressBees,Road,WH-East,55.49,648.0,342.35,4.0,Delivered
+ORD10704,2024-09-24,2024-09-29,Lucknow,Kolkata,Delhivery,Road,WH-North,4.0,,64.47,4.0,Delivered
+ORD10881,2024-02-09,2024-02-12,Chennai,Kolkata,XpressBees,Road,WH-East,39.96,436.6,215.51,3.0,Delivered
+ORD10287,2024-09-14,2024-09-15,Chennai,Kolkata,Delhivery,Air,WH-West,7.51,96.4,58.7,,Delivered
+ORD11176,2024-12-26,,Pune,Chennai,DHL,Road,WH-South,26.37,192.8,194.37,5.0,In Transit
+ORD10822,2024-04-06,2024-04-09,Chennai,Kolkata,Delhivery,Road,WH-East,15.19,326.0,125.82,5.0,Delivered
+ORD11090,2024-08-17,2024-08-23,Bengaluru,Pune,XpressBees,Rail,WH-North,53.83,799.1,366.48,5.0,Delivered
+ORD10317,2024-11-01,2024-11-06,hyderabad,Chennai,BlueDart,Road,WH-West,80.19,670.6,432.41,4.0,Delivered
+ORD10101,2024-12-29,,Hyderabad,Delhi,DHL,Road,WH-North,25.74,385.0,201.43,2.0,Delayed
+ORD10480,2024-05-18,,Delhi,Ahmedabad,FedEx,Air,WH-South,25.96,106.9,86.41,4.0,Cancelled
+ORD10681,2024-11-15,,Chennai,Delhi,FedEx,Road,WH-North,36.92,269.2,235.34,1.0,In Transit
+ORD10301,2024-11-22,2024-11-26,Kolkata,Ahmedabad,FedEx,Road,WH-South,18.46,407.7,177.91,3.0,Delivered
+ORD10611,2024-02-04,2024-02-10,Mumbai,Bengaluru,DHL,Rail,WH-Central,16.96,895.0,195.41,2.0,Delivered
+ORD11019,2024-10-31,2024-11-05,jaipur,Lucknow,,Road,WH-Central,60.75,784.9,387.07,4.0,Delivered
+ORD10201,2024-12-09,,Delhi,Jaipur,BlueDart,Road,WH-East,28.01,491.0,249.67,5.0,In Transit
+ORD10846,2024-06-17,,Chennai,Kolkata,BlueDart,Road,WH-West,,332.7,242.98,5.0,In Transit
+ORD11160,07/04/2024,,Pune,Ahmedabad,BlueDart,Road,WH-North,10.82,528.4,103.94,5.0,In Transit
+ORD11152,2024-08-26,2024-08-31,hyderabad,Chennai,BlueDart,Road,WH-West,1.73,779.6,111.62,1.0,Delivered
+ORD10272,2024-11-07,2024-11-08,Kolkata,Ahmedabad,FedEx,Air,WH-West,21.71,94.0,86.02,2.0,Delivered
+ORD11064,2024-04-06,2024-04-17,Kolkata,Chennai,  BlueDart  ,Sea,WH-Central,14.53,1131.0,,5.0,Delivered
+ORD11171,2024-02-26,2024-03-01,Jaipur,Ahmedabad,XpressBees,Rail,WH-Central,16.82,443.2,106.42,4.0,Delivered
+ORD10304,2024-01-31,2024-01-31,Ahmedabad,Lucknow,Delhivery,Air,WH-South,12.0,56.5,99.53,4.0,Delivered
+ORD10580,2024-07-01,2024-07-05,Kolkata,Bengaluru,BlueDart,Road,WH-South,44.87,404.4,217.6,3.0,Delivered
+ORD10686,2024-03-12,,Jaipur,Hyderabad,Delhivery,Road,WH-North,66.48,175.6,389.6,5.0,Delayed
+ORD10615,2024-11-02,2024-11-07,Ahmedabad,Chennai,Delhivery,Road,WH-South,7.52,598.9,139.81,4.0,Delivered
+ORD10048,2024-12-25,2025-01-03,Chennai,Mumbai,BlueDart,Rail,WH-South,43.9,1153.9,342.62,4.0,Delivered
+ORD10193,2024-06-22,2024-06-23,Delhi,Chennai,FedEx,Air,WH-Central,12.56,83.7,142.12,5.0,Delivered
+ORD10476,2024-11-01,2024-11-04,Ahmedabad,Bengaluru,BlueDart,Road,WH-South,144.45,291.4,777.74,3.0,Delivered
+ORD10945,2024-03-09,,Mumbai,Ahmedabad,DHL,Road,WH-East,65.31,284.9,366.79,4.0,In Transit
+ORD10478,2024-02-04,2024-02-13,Hyderabad,Pune,BlueDart,Sea,WH-South,27.42,1200.0,289.25,4.0,Delivered
+ORD11162,2024-07-12,,Kolkata,Pune,Ekart,Road,WH-West,17.99,294.7,34.78,1.0,Delayed
+ORD11109,2024-07-10,,Lucknow,Hyderabad,FedEx,Road,WH-East,13.86,314.7,136.02,2.0,In Transit
+ORD10325,2024-12-29,2025-01-13,Ahmedabad,Pune,DHL,Sea,WH-Central,42.49,2116.3,479.6,5.0,Delivered
+ORD11178,2024-02-23,,Hyderabad,Kolkata,XpressBees,Air,WH-North,,192.5,354.06,,Delayed
+ORD10684,2024-05-25,2024-05-31,Hyderabad,Pune,,Road,WH-West,17.99,832.6,149.0,3.0,Delivered
+ORD11067,2024-07-10,2024-07-13,Hyderabad,Ahmedabad,FedEx,Road,WH-South,55.44,417.1,323.3,4.0,Delivered
+ORD10566,2024-10-10,2024-10-19,Jaipur,Hyderabad,XpressBees,Rail,WH-South,43.39,701.8,262.96,5.0,Delivered
+ORD10030,2024-05-15,2024-05-20,Bengaluru,Mumbai,DHL,Road,WH-Central,14.15,650.1,212.16,4.0,Delivered
+ORD10003,2024-03-07,2024-03-10,Ahmedabad,Bengaluru,XpressBees,Road,WH-South,17.31,384.8,219.65,,Delivered
+ORD10177,2024-06-17,2024-06-19,Ahmedabad,Chennai,FedEx,Road,WH-North,19.35,,181.74,3.0,Delivered
+ORD10342,2024-09-26,,Hyderabad,Jaipur,BlueDart,Rail,WH-West,25.77,710.8,260.36,4.0,Delayed
+ORD10136,2024-04-02,2024-04-16,Delhi,Mumbai,Delhivery,Sea,WH-Central,36.2,1283.4,255.2,5.0,Delivered
+ORD10447,2024-12-17,2024-12-25,Kolkata,Pune,Ekart,Sea,WH-North,16.42,735.2,148.73,5.0,Delivered
+ORD10664,2024-11-28,2024-12-03,Jaipur,Chennai,BlueDart,Road,WH-West,56.25,569.9,349.07,3.0,Delivered
+ORD10736,2024-06-30,2024-07-01,Kolkata,Mumbai,Delhivery,Air,WH-South,18.66,98.7,189.59,2.0,Delivered
+ORD10816,2024-04-16,2024-04-20,Delhi,Lucknow,DHL,Road,WH-South,29.74,558.3,232.2,3.0,Delivered
+ORD10858,2024-07-26,,Chennai,Hyderabad,BlueDart,Road,WH-South,41.26,505.0,,5.0,In Transit
+ORD10077,2024-11-05,2024-11-14,Kolkata,Mumbai,Ekart,Rail,WH-South,23.67,1321.0,195.76,5.0,Delivered
+ORD10022,2024-10-27,2024-10-30,Hyderabad,Pune,BlueDart,Road,WH-Central,11.39,426.7,122.0,3.0,Delivered
+ORD10803,2024-12-28,2025-01-02,Jaipur,Ahmedabad,XpressBees,Road,WH-North,21.78,486.4,240.47,1.0,Delivered
+ORD10850,2024-05-23,,ahmedabad,Lucknow,Ekart,Air,WH-East,46.35,174.2,268.54,4.0,In Transit
+ORD10454,2024-08-01,2024-08-01,Delhi,Pune,Delhivery,Air,WH-West,24.34,69.6,155.15,5.0,Delivered
+ORD11030,2024-06-07,,Ahmedabad,Delhi,XpressBees,Air,WH-Central,62.49,80.2,310.41,3.0,Delayed
+ORD10437,2024-12-17,2024-12-18,Delhi,Lucknow,BlueDart,Air,WH-Central,8.72,223.0,125.71,4.0,Delivered
+ORD10854,2024-02-14,2024-02-15,Lucknow,Ahmedabad,Delhivery,Air,WH-North,19.9,153.6,143.9,1.0,Delivered
+ORD10960,2024-06-04,2024-06-07,chennai,Kolkata,Ekart,Road,WH-North,20.12,396.7,209.66,4.0,Delivered
+ORD10254,2024-10-01,,Jaipur,Hyderabad,FedEx,Rail,WH-East,23.12,555.6,209.14,4.0,Delayed
+ORD11098,2024-01-30,2024-02-01,Bengaluru,Kolkata,FedEx,Air,WH-East,21.05,170.0,195.75,3.0,Delivered
+ORD10789,2024-06-13,,Kolkata,Lucknow,Delhivery,Road,WH-South,102.37,232.0,514.38,4.0,Cancelled
+ORD10494,2024-09-06,2024-09-08,Mumbai,Jaipur,FedEx,Air,WH-Central,20.95,132.4,166.3,5.0,Delivered
+ORD10499,2024-11-06,2024-11-06,Mumbai,Chennai,FedEx,Air,WH-North,12.63,107.4,104.7,5.0,Delivered
+ORD10140,2024-07-31,2024-08-07,Chennai,Jaipur,Delhivery,Rail,WH-North,38.34,515.8,286.07,3.0,Delivered
+ORD11099,2024-12-16,2024-12-20,Pune,Lucknow,BlueDart,Road,WH-East,25.69,411.9,158.84,3.0,Delivered
+ORD11041,2024-09-02,2024-09-16,Ahmedabad,Bengaluru,Delhivery,Sea,WH-North,13.64,882.5,164.58,5.0,Delivered
+ORD10233,2024-05-22,2024-05-25,ahmedabad,Mumbai,BlueDart,Road,WH-North,7.5,336.2,121.23,3.0,Delivered
+ORD10343,2024-08-26,2024-08-27,Mumbai,Hyderabad,Delhivery,Air,WH-West,85.78,114.5,427.09,2.0,Delivered
+ORD10597,2024-11-21,,Lucknow,Hyderabad,BlueDart,Air,WH-North,35.06,101.1,166.55,5.0,Cancelled
+ORD11002,2024-09-13,,Lucknow,Bengaluru,  Delhivery  ,Road,WH-West,23.72,390.5,166.87,3.0,Delayed
+ORD10467,2024-10-30,2024-10-30,Ahmedabad,Delhi,XpressBees,Air,WH-West,10.44,78.2,132.47,4.0,Delivered
+ORD10835,2024-10-31,2024-11-04,Delhi,Hyderabad,Ekart,Road,WH-West,35.33,428.5,239.38,4.0,Delivered
+ORD10223,2024-05-01,2024-05-02,Bengaluru,Jaipur,  DHL  ,Air,WH-Central,42.26,141.9,255.9,3.0,Delivered
+ORD11021,2024-06-29,,Lucknow,Chennai,Delhivery,Road,WH-Central,8.2,206.8,107.57,5.0,Delayed
+ORD11042,2024-05-11,2024-05-14,Hyderabad,Pune,DHL,Rail,WH-East,28.32,230.5,175.05,5.0,Delivered
+ORD10796,2024-09-27,2024-09-30,Lucknow,Ahmedabad,XpressBees,Road,WH-West,27.75,296.2,174.73,4.0,Delivered
+ORD10018,2024-12-14,2024-12-25,Mumbai,Delhi,FedEx,Sea,WH-Central,20.92,1594.5,300.26,4.0,Delivered
+ORD11194,2024-08-28,2024-08-31,Hyderabad,Ahmedabad,Ekart,Road,WH-North,14.49,246.4,133.9,5.0,Delivered
+ORD11095,2024-08-20,,Ahmedabad,Lucknow,BlueDart,Air,WH-North,52.75,117.6,346.24,2.0,Cancelled
+ORD10408,2024-05-05,2024-05-16,Kolkata,Chennai,DHL,Sea,WH-East,31.43,1571.1,,5.0,Delivered
+ORD10512,2024-07-19,2024-07-20,Hyderabad,Delhi,DHL,Air,WH-East,13.04,117.9,,3.0,Delivered
+ORD10559,2024-04-27,2024-05-10,Mumbai,Bengaluru,XpressBees,Sea,WH-East,14.71,1580.1,245.53,4.0,Delivered
+ORD10269,2024-07-14,2024-07-24,Ahmedabad,Hyderabad,FedEx,Sea,WH-West,1.04,1117.1,132.18,3.0,Delivered
+ORD10472,2024-02-12,2024-02-13,Mumbai,Ahmedabad,FedEx,Air,WH-West,76.33,204.1,446.67,3.0,Delivered
+ORD10525,2024-05-01,2024-05-04,Bengaluru,Mumbai,BlueDart,Road,WH-North,,220.1,273.02,5.0,Delivered
+ORD11006,2024-07-28,2024-08-02,Pune,Kolkata,XpressBees,Road,WH-East,55.49,648.0,342.35,4.0,Delivered
+ORD10319,2024-01-05,2024-01-10,Bengaluru,Mumbai,FedEx,Road,WH-South,27.69,568.8,185.64,4.0,Delivered
+ORD10837,2024-08-31,,Bengaluru,Ahmedabad,BlueDart,Air,WH-Central,64.62,64.0,353.45,3.0,Delayed
+ORD10262,2024-11-16,2024-11-20,Mumbai,Hyderabad,XpressBees,Road,WH-East,32.4,548.2,177.06,4.0,Delivered
+ORD10977,2024-09-22,2024-09-23,Jaipur,Mumbai,FedEx,Air,WH-Central,52.13,202.1,210.3,,Delivered
+ORD10386,2024-04-10,2024-04-15,Kolkata,Ahmedabad,DHL,Rail,WH-North,36.95,406.3,278.22,3.0,Delivered
+ORD10099,2024-01-19,2024-02-02,Bengaluru,Pune,BlueDart,Sea,WH-East,79.07,-1668.3,553.6,5.0,Delivered
+ORD10224,2024-01-23,2024-01-30,Kolkata,Lucknow,BlueDart,Rail,WH-West,61.91,602.2,343.0,1.0,Delivered
+ORD10806,2024-10-24,2024-10-24,Mumbai,Jaipur,Delhivery,Air,WH-South,27.12,122.2,244.88,4.0,Delivered
+ORD10958,2024-06-19,2024-06-22,Kolkata,Ahmedabad,DHL,Road,WH-Central,,-254.5,223.29,4.0,Delivered
+ORD10113,2024-06-11,2024-06-13,Jaipur,Mumbai,BlueDart,Road,WH-North,25.82,250.2,176.91,5.0,Delivered
+ORD10666,2024-06-30,2024-07-08,Kolkata,Chennai,Ekart,Rail,WH-West,987.1678105523143,789.0,262.23,5.0,Delivered
+ORD10638,2024-05-02,,Mumbai,Lucknow,Ekart,Road,WH-Central,46.66,300.7,214.41,1.0,Delayed
+ORD11141,2024-09-06,,Pune,Bengaluru,FedEx,Sea,WH-Central,23.66,579.2,205.43,3.0,In Transit
+ORD10102,2024-06-04,2024-06-04,Mumbai,Hyderabad,Delhivery,Air,WH-South,5.31,93.8,161.47,5.0,Delivered
+ORD10971,2024-11-18,2024-11-21,Delhi,Chennai,XpressBees,Road,WH-East,15.34,325.6,132.65,4.0,Delivered
+ORD10617,2024-09-02,,Delhi,Jaipur,DHL,Road,WH-West,53.26,332.3,354.07,3.0,Delayed
+ORD10369,2024-11-02,,chennai,Bengaluru,BlueDart,Road,WH-South,10.47,520.1,99.37,4.0,In Transit
+ORD10764,2024-01-05,2024-01-08,Pune,Mumbai,FedEx,Road,WH-West,7.64,312.7,148.12,3.0,Delivered
+ORD10376,2024-05-30,2024-06-03,Delhi,Bengaluru,FedEx,Road,WH-North,18.3,529.7,122.19,5.0,Delivered
+ORD11168,2024-12-23,,Ahmedabad,Chennai,Delhivery,Sea,WH-Central,21.38,2233.1,361.55,5.0,Delayed
+ORD10937,2024-03-24,2024-03-27,Mumbai,Lucknow,XpressBees,Road,WH-Central,16.11,244.7,103.49,4.0,Delivered
+ORD10571,2024-11-11,2024-11-14,Kolkata,Bengaluru,Ekart,Rail,WH-West,10.97,420.4,108.62,4.0,Delivered
+ORD10488,2024-01-29,2024-01-31,Ahmedabad,Bengaluru,BlueDart,Road,WH-South,5.08,203.1,,5.0,Delivered
+ORD10904,2024-02-29,2024-03-04,Hyderabad,Ahmedabad,XpressBees,Road,WH-East,4.96,319.9,66.01,5.0,Delivered
+ORD10596,2024-08-06,2024-08-10,Lucknow,Ahmedabad,DHL,Road,WH-West,,524.4,171.48,2.0,Delivered
+ORD10536,2024-02-23,2024-02-24,Chennai,Mumbai,BlueDart,Air,WH-East,42.64,80.9,288.33,4.0,Delivered
+ORD10171,2024-04-06,,Hyderabad,Kolkata,Ekart,Road,WH-West,15.37,516.8,186.73,2.0,Delayed
+ORD10377,2024-02-23,2024-02-26,Kolkata,Pune,BlueDart,Road,WH-North,20.23,203.0,114.82,4.0,Delivered
+ORD10706,2024-04-08,2024-04-12,Lucknow,Mumbai,DHL,Road,WH-Central,10.24,260.6,79.61,2.0,Delivered
+ORD10057,2024-05-20,2024-05-21,Mumbai,Lucknow,BlueDart,Air,WH-East,46.57,72.6,269.2,5.0,Delivered
+ORD10050,2024-02-13,2024-02-15,Mumbai,Ahmedabad,XpressBees,Road,WH-West,29.47,358.9,247.75,4.0,Delivered
+ORD10152,2024-03-08,2024-03-09,lucknow,Bengaluru,Ekart,Air,WH-North,62.75,99.9,348.59,4.0,Delivered
+ORD10271,2024-01-11,2024-01-25,Ahmedabad,Kolkata,BlueDart,Sea,WH-West,30.23,1446.1,334.54,5.0,Delivered
+ORD10131,2024-02-06,2024-02-11,Kolkata,Lucknow,FedEx,Road,WH-West,18.21,789.4,201.91,,Delivered
+ORD10401,2024-05-25,,Lucknow,Jaipur,XpressBees,Road,WH-West,,624.2,133.65,1.0,Cancelled
+ORD10016,2024-09-29,2024-10-03,Chennai,Mumbai,XpressBees,Road,WH-East,48.68,481.8,324.12,2.0,Delivered
+ORD10299,2024-07-15,2024-07-17,Bengaluru,Kolkata,Ekart,Road,WH-South,13.64,304.7,118.23,4.0,Delivered
+ORD10259,2024-11-20,2024-11-29,Pune,Bengaluru,Ekart,Rail,WH-East,53.24,916.1,323.35,3.0,Delivered
+ORD10389,2024-07-11,2024-07-15,Bengaluru,Lucknow,  FedEx  ,Road,WH-Central,30.0,526.3,143.82,3.0,Delivered
+ORD10990,2024-04-28,2024-05-03,Chennai,Bengaluru,FedEx,Road,WH-Central,28.44,541.9,213.52,4.0,Delivered
+ORD10625,2024-09-27,2024-09-30,Lucknow,Bengaluru,BlueDart,Road,WH-North,69.32,551.2,367.22,3.0,Delivered
+ORD10158,2024-03-01,2024-03-04,Hyderabad,Pune,Delhivery,Road,WH-West,87.62,388.0,446.9,4.0,Delivered
+ORD10802,2024-11-20,2024-11-23,Delhi,Kolkata,Ekart,Road,WH-East,65.48,,302.51,3.0,Delivered
+ORD10020,2024-09-11,2024-09-13,Lucknow,Delhi,Delhivery,Air,WH-North,10.65,286.1,176.09,5.0,Delivered
+ORD10220,2024-11-02,,Mumbai,Kolkata,FedEx,Road,WH-North,12.44,151.2,147.92,5.0,In Transit
+ORD10953,2024-10-28,,Mumbai,Lucknow,Delhivery,Rail,WH-West,23.23,583.9,179.85,4.0,Delayed
+ORD10962,2024-02-17,2024-03-02,Chennai,Pune,Ekart,Sea,WH-Central,87.6,1201.8,490.33,4.0,Delivered
+ORD10581,2024-06-16,2024-06-22,Chennai,Lucknow,Delhivery,Sea,WH-North,11.64,662.2,164.52,5.0,Delivered
+ORD10294,2024-05-06,2024-05-10,Hyderabad,Lucknow,Delhivery,Road,WH-South,17.82,446.6,241.43,3.0,Delivered
+ORD10360,2024-11-19,2024-11-24,Chennai,Ahmedabad,Delhivery,Road,WH-Central,65.0,421.7,370.62,5.0,Delivered
+ORD11158,2024-07-23,2024-07-30,Hyderabad,Ahmedabad,Ekart,Road,WH-South,22.48,509.3,163.2,5.0,Delivered
+ORD11080,2024-02-09,2024-02-13,Lucknow,Hyderabad,Ekart,Rail,WH-East,29.62,304.1,261.52,4.0,Delivered
+ORD11092,06/11/2024,,Pune,Ahmedabad,FedEx,Air,WH-South,18.1,138.5,124.45,5.0,Delayed
+ORD10631,2024-12-29,2025-01-01,Pune,Lucknow,DHL,Road,WH-North,17.09,415.6,70.04,5.0,Delivered
+ORD11111,2024-01-19,,Bengaluru,Kolkata,  Delhivery  ,Sea,WH-North,25.52,1327.1,294.66,4.0,Delayed
+ORD10474,2024-07-30,2024-08-12,Lucknow,Bengaluru,BlueDart,Sea,WH-Central,14.59,,198.4,1.0,Delivered
+ORD10383,2024-04-19,2024-04-20,Lucknow,Delhi,XpressBees,Air,WH-South,37.21,173.9,236.86,4.0,Delivered
+ORD10730,2024-06-06,2024-06-09,Bengaluru,Pune,BlueDart,Road,WH-West,99.78,423.6,535.05,3.0,Delivered
+ORD11122,2024-10-03,2024-10-04,Mumbai,Jaipur,Ekart,Air,WH-Central,58.82,219.0,353.2,,Delivered
+ORD10305,2024-02-19,,Kolkata,Hyderabad,XpressBees,Sea,WH-South,18.69,1288.3,160.79,1.0,In Transit
+ORD10023,2024-08-20,2024-08-21,hyderabad,Chennai,XpressBees,Road,WH-Central,28.79,128.2,158.11,1.0,Delivered
+ORD10600,2024-09-22,2024-09-27,mumbai,Kolkata,Delhivery,Rail,WH-West,14.87,322.7,114.04,2.0,Delivered
+ORD10188,2024-10-09,2024-10-16,Chennai,Mumbai,Ekart,Sea,WH-East,24.65,558.8,221.52,3.0,Delivered
+ORD11020,2024-06-07,2024-06-11,Chennai,Mumbai,XpressBees,Road,WH-East,21.78,563.8,1770.1433359144924,3.0,Delivered
+ORD10356,2024-09-08,2024-09-12,Pune,Delhi,,Road,WH-South,32.74,418.1,237.2,,Delivered
+ORD11144,2024-04-01,,Pune,Chennai,Ekart,Road,WH-South,13.12,,111.66,5.0,In Transit
+ORD11052,2024-03-21,2024-03-24,Delhi,Mumbai,Ekart,Road,WH-East,15.8,280.8,119.78,5.0,Delivered
+ORD10007,2024-06-05,2024-06-09,Pune,Ahmedabad,DHL,Road,WH-East,19.65,413.3,162.7,4.0,Delivered
+ORD10569,2024-08-03,2024-08-07,Mumbai,Ahmedabad,Ekart,Road,WH-East,71.79,331.6,415.97,1.0,Delivered
+ORD10616,2024-09-25,2024-09-26,Bengaluru,Kolkata,BlueDart,Air,WH-West,279.02513993605,125.7,52.23,4.0,Delivered
+ORD11137,2024-11-19,2024-11-27,Lucknow,Bengaluru,DHL,Rail,WH-East,61.23,747.2,,,Delivered
+ORD10215,2024-12-29,,Hyderabad,Lucknow,FedEx,Sea,WH-West,35.06,671.4,269.07,5.0,Delayed
+ORD10109,2024-09-23,2024-09-24,Delhi,Ahmedabad,Delhivery,Road,WH-South,17.13,120.2,112.95,,Delivered
+ORD10219,2024-12-01,,Bengaluru,Kolkata,FedEx,Air,WH-West,38.2,190.1,253.37,,Delayed
+ORD11145,2024-09-07,2024-09-07,Bengaluru,Delhi,XpressBees,Air,WH-West,13.71,126.7,214.42,4.0,Delivered
+ORD10991,2024-09-14,2024-09-24,lucknow,Ahmedabad,Ekart,Sea,WH-South,39.23,729.7,325.96,5.0,Delivered
+ORD10203,2024-09-03,2024-09-09,Kolkata,Mumbai,FedEx,Road,WH-East,17.87,-457.4,70.0,,Delivered
+ORD10878,2024-01-12,2024-01-16,Jaipur,Lucknow,FedEx,Rail,WH-East,33.59,611.8,218.58,2.0,Delivered
+ORD10852,2024-06-03,2024-06-16,Mumbai,Delhi,FedEx,Sea,WH-East,17.37,1825.2,269.18,4.0,Delivered
+ORD10027,2024-08-12,,Mumbai,Jaipur,Ekart,Rail,WH-East,47.57,755.8,283.15,5.0,In Transit
+ORD10230,2024-09-13,2024-09-14,Bengaluru,Kolkata,DHL,Road,WH-North,23.85,191.1,190.8,5.0,Delivered
+ORD10954,2024-09-23,2024-09-28,Chennai,Kolkata,XpressBees,Road,WH-North,38.91,586.2,218.89,5.0,Delivered
+ORD10052,2024-02-02,,Hyderabad,Pune,FedEx,Air,WH-East,,205.7,269.54,4.0,Delayed
+ORD10618,03/08/2024,2024-08-06,Lucknow,Pune,DHL,Road,WH-East,72.11,198.0,378.14,,Delivered
+ORD10644,2024-10-23,2024-10-28,Kolkata,Pune,DHL,Road,WH-North,18.57,546.1,157.12,5.0,Delivered
+ORD11068,2024-09-28,2024-10-01,hyderabad,Kolkata,Ekart,Road,WH-South,25.49,438.9,196.64,,Delivered
+ORD10074,2024-08-10,2024-08-11,Ahmedabad,Chennai,BlueDart,Air,WH-East,37.36,102.1,156.1,4.0,Delivered
+ORD10961,2024-08-20,2024-08-26,Chennai,Pune,Delhivery,Rail,WH-East,29.47,532.6,263.94,5.0,Delivered
+ORD10046,2024-07-07,2024-07-09,Ahmedabad,Lucknow,DHL,Air,WH-South,26.5,273.5,205.25,4.0,Delivered
+ORD10196,2024-04-12,,Ahmedabad,Pune,BlueDart,Air,WH-Central,35.26,215.7,151.69,,In Transit
+ORD11127,2024-09-01,2024-09-03,Ahmedabad,Lucknow,XpressBees,Road,WH-Central,14.36,284.3,141.15,5.0,Delivered
+ORD10522,2024-01-24,,Mumbai,Delhi,  DHL  ,Rail,WH-Central,34.89,,197.92,3.0,Delayed
+ORD10703,2024-09-29,,Pune,Chennai,BlueDart,Road,WH-South,28.16,198.7,141.8,4.0,In Transit
+ORD10126,2024-12-07,2024-12-08,Delhi,Bengaluru,BlueDart,Road,WH-East,36.18,172.1,242.12,5.0,Delivered
+ORD10659,2024-11-04,2024-11-05,Chennai,Pune,FedEx,Air,WH-West,32.96,106.2,207.62,4.0,Delivered
+ORD10758,2024-08-23,2024-08-27,Pune,Bengaluru,BlueDart,Road,WH-Central,52.07,292.8,316.48,4.0,Delivered
+ORD10064,2024-06-01,2024-06-04,Bengaluru,Pune,BlueDart,Road,WH-Central,,411.7,,2.0,Delivered
+ORD10357,2024-09-06,2024-09-12,Hyderabad,Bengaluru,Delhivery,Road,WH-Central,18.14,827.0,225.47,5.0,Delivered
+ORD10923,2024-05-27,2024-05-30,Lucknow,Chennai,BlueDart,Road,WH-East,6.56,391.3,91.34,3.0,Delivered
+ORD10725,2024-07-07,,Bengaluru,Delhi,XpressBees,Road,WH-Central,26.81,381.0,232.65,,Cancelled
+ORD10938,2024-02-04,2024-02-13,Ahmedabad,Chennai,Delhivery,Sea,WH-North,33.38,910.6,281.18,1.0,Delivered
+ORD10396,2024-01-04,2024-01-11,Delhi,Hyderabad,XpressBees,Rail,WH-Central,19.27,497.5,207.48,3.0,Delivered
+ORD10576,2024-01-03,,Lucknow,Ahmedabad,Delhivery,Road,WH-Central,29.32,282.2,211.53,5.0,Delayed
+ORD11032,2024-02-26,,Chennai,Lucknow,Delhivery,Road,WH-North,5.92,307.1,123.94,1.0,Delayed
+ORD11079,2024-08-09,2024-08-09,Ahmedabad,Kolkata,FedEx,Air,WH-East,8.67,105.0,179.46,3.0,Delivered
+ORD10353,18/12/2024,2024-12-22,Chennai,Ahmedabad,BlueDart,Road,WH-East,83.93,399.9,417.76,3.0,Delivered
+ORD10062,2024-03-01,2024-03-05,Pune,Mumbai,XpressBees,Road,WH-Central,18.19,382.3,183.95,4.0,Delivered
+ORD10218,2024-02-13,2024-02-17,jaipur,Bengaluru,FedEx,Rail,WH-Central,13.01,564.6,91.06,1.0,Delivered
+ORD10769,2024-11-29,2024-12-03,Pune,Ahmedabad,FedEx,Road,WH-East,21.83,288.9,202.62,4.0,Delivered
+ORD10338,2024-07-16,2024-07-19,Pune,Hyderabad,Delhivery,Road,WH-North,27.64,446.5,191.92,3.0,Delivered
+ORD10434,2024-05-01,2024-05-08,Ahmedabad,Mumbai,Ekart,Rail,WH-Central,6.91,858.4,248.34,4.0,Delivered
+ORD10275,2024-04-21,,Pune,Mumbai,BlueDart,Road,WH-North,8.35,551.9,38.85,5.0,Delayed
+ORD10992,2024-08-12,2024-08-13,Ahmedabad,Chennai,XpressBees,Air,WH-Central,4.52,167.0,71.58,5.0,Delivered
+ORD10942,2024-12-24,2024-12-27,Lucknow,Kolkata,Delhivery,Road,WH-East,82.96,539.4,440.65,4.0,Delivered
+ORD10829,2024-09-02,2024-09-07,Ahmedabad,Mumbai,Ekart,Road,WH-South,49.48,566.0,372.4,5.0,Delivered
+ORD11174,2024-01-19,2024-01-20,jaipur,Pune,BlueDart,Air,WH-North,20.61,150.4,168.68,3.0,Delivered
+ORD11029,2024-10-09,2024-10-11,Delhi,Hyderabad,Delhivery,Road,WH-North,8.35,400.8,126.96,4.0,Delivered
+ORD10695,14/11/2024,2024-11-19,Pune,Chennai,FedEx,Road,WH-South,25.67,396.9,212.0,1.0,Delivered
+ORD10235,2024-12-09,2024-12-13,Ahmedabad,Chennai,,Road,WH-West,24.19,465.7,197.87,,Delivered
+ORD10697,2024-10-25,,Kolkata,Chennai,,Road,WH-Central,26.13,352.6,167.18,3.0,Delayed
+ORD10586,2024-03-09,2024-03-12,Mumbai,Bengaluru,Ekart,Rail,WH-West,54.32,280.9,259.5,4.0,Delivered
+ORD10466,2024-01-29,2024-02-04,Pune,Kolkata,XpressBees,Rail,WH-East,22.86,572.0,143.39,,Delivered
+ORD10428,2024-06-08,2024-06-21,Delhi,Lucknow,DHL,Sea,WH-Central,15.33,1139.9,158.64,4.0,Delivered
+ORD10100,2024-06-14,2024-06-15,Chennai,Kolkata,XpressBees,Air,WH-East,95.55,111.8,447.66,5.0,Delivered
+ORD10534,2024-08-12,2024-08-26,Kolkata,Chennai,FedEx,Sea,WH-North,22.42,1110.0,319.66,1.0,Delivered
+ORD10182,2024-11-28,2024-12-02,bengaluru,Mumbai,  Ekart  ,Road,WH-Central,15.5,518.9,186.0,2.0,Delivered
+ORD10332,2024-09-20,2024-09-23,Lucknow,Pune,Delhivery,Road,WH-Central,16.62,412.9,,4.0,Delivered
+ORD10670,2024-01-24,2024-01-26,Delhi,Pune,BlueDart,Road,WH-North,21.95,184.0,195.77,4.0,Delivered
+ORD10814,2024-09-12,2024-09-14,Bengaluru,Lucknow,BlueDart,Air,WH-Central,48.45,243.5,264.93,5.0,Delivered
+ORD10628,2024-04-20,,Hyderabad,Mumbai,Ekart,Road,WH-East,20.75,380.1,195.71,5.0,In Transit
+ORD10917,2024-11-10,2024-11-13,Jaipur,Chennai,DHL,Road,WH-West,44.67,246.3,266.56,3.0,Delivered
+ORD10738,2024-05-17,2024-05-20,Delhi,Mumbai,XpressBees,Road,WH-Central,2.19,338.9,85.74,1.0,Delivered
+ORD10258,2024-01-06,2024-01-08,Kolkata,Ahmedabad,Delhivery,Air,WH-Central,40.31,246.4,214.39,4.0,Delivered
+ORD10138,2024-12-09,2024-12-18,Lucknow,Chennai,DHL,Sea,WH-North,56.0,1019.0,351.6,4.0,Delivered
+ORD10588,2024-11-01,2024-11-02,chennai,Mumbai,Delhivery,Air,WH-North,27.74,122.6,137.1,5.0,Delivered
+ORD11005,2024-02-23,2024-02-29,Lucknow,Ahmedabad,DHL,Sea,WH-South,37.53,574.3,275.33,3.0,Delivered
+ORD10602,2024-09-22,,Delhi,Mumbai,Delhivery,Road,WH-South,22.13,465.9,151.5,3.0,Delayed
+ORD10378,2024-07-18,2024-07-19,Delhi,Jaipur,Delhivery,Air,WH-Central,27.81,111.9,223.94,3.0,Delivered
+ORD10594,2024-02-21,2024-02-26,Lucknow,Kolkata,DHL,Rail,WH-East,28.17,378.3,213.56,5.0,Delivered
+ORD11115,2024-03-04,2024-03-05,Kolkata,Chennai,XpressBees,Air,WH-North,27.66,211.3,193.12,4.0,Delivered
+ORD10587,2024-09-23,2024-09-26,Jaipur,Ahmedabad,Ekart,Road,WH-Central,60.31,236.8,295.75,4.0,Delivered
+ORD10040,2024-11-01,2024-11-03,Jaipur,Hyderabad,DHL,Air,WH-North,1.23,141.1,30.77,5.0,Delivered
+ORD10984,2024-02-24,2024-02-26,Lucknow,Mumbai,DHL,Road,WH-West,18.13,184.7,84.7,4.0,Delivered
+ORD10891,2024-05-26,2024-05-31,Jaipur,Hyderabad,FedEx,Road,WH-East,16.87,407.9,113.71,1.0,Delivered
+ORD10072,2024-04-10,,Delhi,Hyderabad,Delhivery,Rail,WH-South,41.63,735.3,360.98,5.0,In Transit
+ORD10721,2024-03-11,2024-03-17,Pune,Bengaluru,BlueDart,Road,WH-West,,778.6,155.23,5.0,Delivered
+ORD10504,2024-11-09,2024-11-12,Kolkata,Bengaluru,XpressBees,Road,WH-East,17.72,249.1,137.98,5.0,Delivered
+ORD10548,2024-02-27,2024-03-02,Pune,Bengaluru,Delhivery,Rail,WH-West,,291.7,274.1,5.0,Delivered
+ORD10084,2024-08-17,2024-08-18,Mumbai,Chennai,XpressBees,Air,WH-North,5.75,157.4,92.81,4.0,Delivered
+ORD10032,2024-07-21,2024-07-25,Kolkata,Hyderabad,DHL,Rail,WH-South,18.94,675.4,199.23,5.0,Delivered
+ORD10308,2024-10-20,2024-10-25,Chennai,Bengaluru,Ekart,Rail,WH-South,15.0,433.8,170.44,4.0,Delivered
+ORD10598,2024-09-19,,Delhi,Pune,DHL,Road,WH-Central,25.68,536.6,252.08,5.0,In Transit
+ORD10886,2024-04-14,2024-04-18,Kolkata,Ahmedabad,BlueDart,Road,WH-East,16.28,661.0,192.81,5.0,Delivered
+ORD11102,2024-06-28,,Delhi,Chennai,DHL,Road,WH-North,36.98,369.6,203.89,4.0,In Transit
+ORD10532,2024-07-05,2024-07-13,Mumbai,Chennai,  Delhivery  ,Rail,WH-Central,23.37,815.7,225.91,4.0,Delivered
+ORD10191,2024-06-16,,kolkata,Delhi,DHL,Road,WH-West,,310.1,194.76,2.0,Delayed
+ORD10570,2024-05-27,2024-05-30,Delhi,Mumbai,FedEx,Rail,WH-Central,15.21,521.7,174.51,4.0,Delivered
+ORD11110,2024-04-29,2024-05-02,Jaipur,Mumbai,BlueDart,Road,WH-Central,33.11,246.4,,5.0,Delivered
+ORD10529,2024-08-17,,bengaluru,Mumbai,XpressBees,Road,WH-East,34.92,278.2,219.37,5.0,Delayed
+ORD10368,2024-04-22,,Chennai,Jaipur,DHL,Road,WH-Central,12.99,-229.5,55.97,4.0,Delayed
+ORD10277,2024-07-06,,Delhi,Ahmedabad,FedEx,Road,WH-West,25.84,226.0,238.15,5.0,Cancelled
+ORD10987,2024-10-13,2024-10-18,Mumbai,Lucknow,Delhivery,Sea,WH-South,29.8,716.5,326.09,4.0,Delivered
+ORD10981,2024-06-06,2024-06-12,Pune,Chennai,DHL,Road,WH-East,21.62,436.9,217.6,2.0,Delivered
+ORD10436,2024-01-10,2024-01-14,Jaipur,Lucknow,DHL,Road,WH-East,63.04,584.3,338.13,4.0,Delivered
+ORD10070,2024-05-05,2024-05-06,Bengaluru,Ahmedabad,FedEx,Air,WH-North,57.92,94.4,324.85,5.0,Delivered
+ORD11191,2024-11-25,2024-11-30,Chennai,Hyderabad,DHL,Road,WH-West,7.35,550.5,59.75,1.0,Delivered
+ORD10539,2024-02-27,2024-02-29,Pune,Kolkata,Ekart,Road,WH-North,356.892620848436,314.4,100.7,4.0,Delivered
+ORD10827,2024-08-23,2024-08-26,Ahmedabad,Mumbai,DHL,Road,WH-Central,69.12,524.1,401.99,3.0,Delivered
+ORD10855,23/04/2024,2024-04-24,Chennai,Delhi,DHL,Air,WH-South,58.07,121.0,368.5,5.0,Delivered
+ORD11072,2024-10-05,2024-10-09,Lucknow,Hyderabad,BlueDart,Road,WH-North,21.02,616.9,160.18,4.0,Delivered
+ORD10776,2024-05-28,2024-05-31,chennai,Ahmedabad,Delhivery,Road,WH-South,23.31,,123.31,5.0,Delivered
+ORD10527,2024-04-27,,Ahmedabad,Delhi,Ekart,Road,WH-East,21.64,,195.97,5.0,Cancelled
+ORD11131,2024-07-27,2024-07-31,Hyderabad,Lucknow,Ekart,Road,WH-North,22.03,470.2,,4.0,Delivered
+ORD10132,2024-09-21,2024-09-22,Chennai,Kolkata,FedEx,Air,WH-Central,60.51,115.3,253.76,3.0,Delivered
+ORD10222,2024-03-08,2024-03-15,delhi,Kolkata,Ekart,Rail,WH-East,46.41,524.6,283.98,2.0,Delivered
+ORD11187,2024-01-03,2024-01-06,Delhi,Lucknow,BlueDart,Road,WH-West,10.12,448.2,204.61,,Delivered
+ORD10267,2024-12-09,2024-12-14,Delhi,Ahmedabad,XpressBees,Road,WH-South,25.03,586.1,158.45,4.0,Delivered
+ORD10970,2024-10-03,,Hyderabad,Chennai,XpressBees,Air,WH-Central,14.03,126.8,111.06,4.0,Delayed
+ORD10081,2024-11-14,2024-11-20,Mumbai,Hyderabad,FedEx,Rail,WH-South,4.53,481.3,38.55,2.0,Delivered
+ORD11082,2024-12-08,2024-12-09,Kolkata,Hyderabad,FedEx,Road,WH-East,23.87,134.0,137.11,2.0,Delivered
+ORD10610,2024-10-07,2024-10-10,Mumbai,Ahmedabad,BlueDart,Rail,WH-North,22.13,227.7,129.89,4.0,Delivered
+ORD10115,2024-08-24,2024-08-28,Kolkata,Ahmedabad,,Road,WH-East,20.42,315.7,182.83,5.0,Delivered
+ORD10699,2024-09-29,2024-09-30,Pune,Mumbai,BlueDart,Air,WH-East,43.43,213.2,302.87,,Delivered
+ORD10412,2024-05-10,,Jaipur,Ahmedabad,DHL,Air,WH-East,20.67,187.3,203.51,4.0,In Transit
+ORD10888,2024-03-19,,Chennai,Delhi,Delhivery,Road,WH-Central,8.66,533.6,194.36,5.0,Delayed
+ORD10208,2024-02-15,2024-02-25,Mumbai,Jaipur,  FedEx  ,Sea,WH-North,20.67,628.8,201.01,3.0,Delivered
+ORD10344,2024-11-27,2024-11-29,Ahmedabad,Pune,XpressBees,Air,WH-North,8.51,197.8,149.83,,Delivered
+ORD10329,2024-02-16,2024-02-18,Delhi,Pune,DHL,Road,WH-North,18.68,203.9,153.6,4.0,Delivered
+ORD11114,2024-11-12,2024-11-15,Mumbai,Bengaluru,BlueDart,Road,WH-South,8.27,282.0,61.47,3.0,Delivered
+ORD10014,2024-03-29,,Lucknow,Jaipur,FedEx,Road,WH-East,30.38,317.8,243.41,5.0,Delayed
+ORD10306,2024-04-10,2024-04-15,Jaipur,Chennai,  XpressBees  ,Road,WH-West,10.0,502.3,172.56,4.0,Delivered
+ORD10485,2024-11-12,2024-11-18,Chennai,Mumbai,XpressBees,Rail,WH-West,23.67,490.2,216.65,4.0,Delivered
+ORD10819,2024-10-30,2024-10-31,Lucknow,Ahmedabad,Delhivery,Air,WH-South,49.62,159.0,323.12,4.0,Delivered
+ORD10722,2024-06-28,2024-06-30,Ahmedabad,Jaipur,Ekart,Air,WH-East,44.08,153.0,240.41,5.0,Delivered
+ORD10729,2024-05-11,2024-05-17,Bengaluru,Kolkata,,Road,WH-West,18.76,482.5,150.67,2.0,Delivered
+ORD10680,2024-01-23,2024-01-28,Hyderabad,Jaipur,BlueDart,Rail,WH-Central,40.33,464.2,313.61,5.0,Delivered
+ORD11031,2024-08-05,2024-08-07,Lucknow,Kolkata,FedEx,Air,WH-North,19.87,140.7,202.67,5.0,Delivered
+ORD11170,2024-04-25,2024-05-05,Chennai,Hyderabad,Delhivery,Sea,WH-East,44.41,925.4,350.29,5.0,Delivered
+ORD10957,2024-03-23,2024-04-04,Kolkata,Delhi,XpressBees,Sea,WH-Central,,1189.0,158.16,4.0,Delivered
+ORD10988,2024-11-19,2024-11-24,Mumbai,Chennai,FedEx,Road,WH-South,81.97,706.2,480.6,5.0,Delivered
+ORD11103,2024-04-20,2024-04-24,Jaipur,Mumbai,XpressBees,Road,WH-West,13.43,436.7,142.24,2.0,Delivered
+ORD10006,2024-09-23,2024-09-26,Delhi,Mumbai,XpressBees,Road,WH-North,,226.2,282.01,5.0,Delivered
+ORD10978,2024-12-07,2024-12-13,Kolkata,Chennai,DHL,Rail,WH-East,10.54,699.0,98.08,3.0,Delivered
+ORD10817,2024-12-16,2024-12-21,Kolkata,Hyderabad,Delhivery,Road,WH-Central,69.55,446.1,384.83,4.0,Delivered
+ORD10367,2024-12-28,2024-12-31,Hyderabad,Pune,Delhivery,Road,WH-East,10.47,366.6,178.58,3.0,Delivered
+ORD11173,2024-05-19,2024-05-22,Kolkata,Lucknow,FedEx,Road,WH-North,29.49,440.5,231.81,1.0,Delivered
+ORD10574,2024-08-08,2024-08-10,Kolkata,Lucknow,Delhivery,Road,WH-West,73.38,179.3,303.91,5.0,Delivered
+ORD10135,2024-05-23,,Delhi,Jaipur,  DHL  ,Road,WH-North,65.68,470.7,374.84,5.0,In Transit
+ORD10375,2024-02-18,2024-02-21,Delhi,Kolkata,Ekart,Road,WH-East,13.62,363.6,204.73,4.0,Delivered
+ORD10952,2024-08-04,2024-08-08,Hyderabad,Mumbai,  Delhivery  ,Road,WH-South,33.55,431.6,212.97,5.0,Delivered
+ORD10026,2024-06-07,,Kolkata,Ahmedabad,FedEx,Road,WH-South,71.81,313.6,341.03,4.0,In Transit
+ORD10771,2024-09-02,2024-09-05,Jaipur,Pune,FedEx,Rail,WH-West,59.2,311.5,305.07,5.0,Delivered
+ORD11156,2024-05-23,2024-05-25,Chennai,Delhi,Delhivery,Road,WH-South,18.66,167.1,228.58,3.0,Delivered
+ORD10453,2024-01-21,,Pune,Mumbai,DHL,Air,WH-South,30.36,112.2,216.7,3.0,In Transit
+ORD10679,2024-08-14,2024-08-17,Delhi,Ahmedabad,DHL,Road,WH-South,20.45,289.0,102.38,4.0,Delivered
+ORD10810,2024-06-23,2024-06-29,Jaipur,Bengaluru,Delhivery,Rail,WH-North,11.88,781.2,158.45,,Delivered
+ORD11161,05/10/2024,2024-10-06,Ahmedabad,Jaipur,BlueDart,Air,WH-North,35.0,,299.62,3.0,Delivered
+ORD11108,2024-11-07,,Delhi,Pune,Delhivery,Road,WH-East,32.72,336.9,264.83,5.0,Cancelled
+ORD10767,2024-05-23,2024-05-25,Chennai,Delhi,DHL,Road,WH-East,31.03,325.6,239.38,4.0,Delivered
+ORD11146,2024-08-03,2024-08-07,Jaipur,Chennai,Ekart,Road,WH-West,38.47,461.7,273.31,4.0,Delivered
+ORD10640,2024-10-05,2024-10-12,Hyderabad,Kolkata,FedEx,Rail,WH-East,35.98,799.7,326.28,5.0,Delivered
+ORD10232,2024-10-17,2024-10-22,Pune,Delhi,XpressBees,Rail,WH-South,40.71,696.0,234.24,5.0,Delivered
+ORD11136,2024-09-09,2024-09-12,Chennai,Kolkata,Delhivery,Road,WH-West,55.62,405.3,352.99,5.0,Delivered
+ORD10979,2024-10-05,2024-10-24,Delhi,Pune,Delhivery,Sea,WH-East,21.19,1362.5,265.48,5.0,Delivered
+ORD10028,2024-03-16,2024-03-22,Bengaluru,Mumbai,BlueDart,Rail,WH-North,11.5,401.9,105.93,4.0,Delivered
+ORD10648,2024-03-29,2024-03-31,Pune,Chennai,XpressBees,Road,WH-East,1.44,379.8,94.57,4.0,Delivered
+ORD10890,2024-01-24,2024-01-29,Pune,Jaipur,BlueDart,Road,WH-East,2.24,708.9,108.93,5.0,Delivered
+ORD10189,2024-05-04,2024-05-05,Delhi,Chennai,Delhivery,Road,WH-East,42.46,115.6,333.28,4.0,Delivered
+ORD10288,2024-02-03,2024-02-05,Delhi,Kolkata,XpressBees,Road,WH-South,31.82,343.4,174.75,4.0,Delivered
+ORD10701,2024-05-08,2024-05-11,Bengaluru,Ahmedabad,Delhivery,Road,WH-East,0.51,,,1.0,Delivered
+ORD10836,2024-09-24,2024-09-27,Bengaluru,Chennai,FedEx,Road,WH-South,15.82,397.8,264.63,4.0,Delivered
+ORD10456,2024-01-11,2024-01-14,Delhi,Chennai,XpressBees,Road,WH-East,48.68,,231.4,5.0,Delivered
+ORD11022,2024-03-31,2024-04-01,Ahmedabad,Lucknow,Delhivery,Road,WH-Central,15.61,227.0,132.55,5.0,Delivered
+ORD10579,2024-07-23,2024-07-26,Bengaluru,Chennai,Delhivery,Road,WH-Central,12.01,407.8,189.56,4.0,Delivered
+ORD10821,2024-11-05,2024-11-06,Hyderabad,Delhi,  XpressBees  ,Road,WH-West,39.67,119.3,215.24,1.0,Delivered
+ORD10541,2024-03-29,2024-03-30,Lucknow,Delhi,DHL,Air,WH-East,20.98,125.1,128.63,5.0,Delivered
+ORD10915,2024-02-12,2024-02-17,Hyderabad,Delhi,Ekart,Road,WH-South,29.64,348.2,,5.0,Delivered
+ORD10078,2024-11-30,2024-12-06,Mumbai,Ahmedabad,Delhivery,Rail,WH-South,21.09,922.2,263.84,,Delivered
+ORD10606,2024-04-18,2024-05-04,Lucknow,Delhi,Delhivery,Sea,WH-West,1011.4308661989273,1461.7,366.97,1.0,Delivered
+ORD10965,2024-05-20,2024-05-24,Hyderabad,Chennai,FedEx,Road,WH-North,42.15,,302.56,5.0,Delivered
+ORD10866,2024-12-14,2024-12-18,Delhi,Chennai,XpressBees,Road,WH-North,13.1,310.6,95.04595484395757,5.0,Delivered
+ORD10015,2024-01-31,2024-02-06,Hyderabad,Jaipur,BlueDart,Rail,WH-North,13.56,475.6,223.7,5.0,Delivered
+ORD10481,2024-08-31,2024-09-03,Bengaluru,Jaipur,DHL,Road,WH-North,14.0,320.0,90.75,,Delivered
+ORD10791,2024-11-15,2024-11-22,Hyderabad,Delhi,Ekart,Sea,WH-East,17.64,1040.5,207.35,5.0,Delivered
+ORD10283,2024-07-01,2024-07-04,Chennai,Lucknow,FedEx,Road,WH-North,75.48,227.0,345.69,1.0,Delivered
+ORD11009,2024-06-02,,Jaipur,Ahmedabad,XpressBees,Air,WH-South,,150.3,77.68,2.0,In Transit
+ORD10985,2024-08-26,,Hyderabad,Pune,DHL,Road,WH-East,67.63,519.3,369.36,4.0,Delayed
+ORD10560,2024-10-21,,Mumbai,Pune,  XpressBees  ,Road,WH-South,1.36,309.7,84.97,1.0,Delayed
+ORD11061,2024-06-18,2024-06-19,Mumbai,Ahmedabad,  DHL  ,Air,WH-South,33.12,101.4,196.86,3.0,Delivered
+ORD10645,2024-06-08,2024-06-13,Pune,Hyderabad,DHL,Road,WH-East,14.78,524.8,138.32,4.0,Delivered
+ORD10285,2024-04-26,2024-04-29,kolkata,Jaipur,XpressBees,Road,WH-South,69.19,287.7,317.43,4.0,Delivered
+ORD11088,2024-06-17,2024-06-20,Mumbai,Ahmedabad,BlueDart,Road,WH-North,30.4,369.9,226.27,3.0,Delivered
+ORD10037,2024-05-20,2024-05-26,Mumbai,Delhi,Ekart,Rail,WH-South,29.28,430.5,181.18,4.0,Delivered
+ORD10558,2024-06-07,,Bengaluru,Pune,XpressBees,Rail,WH-West,9.82,392.6,159.87,3.0,Delayed
+ORD10676,2024-02-10,2024-02-13,Pune,Hyderabad,Ekart,Road,WH-Central,47.51,446.2,269.35,4.0,Delivered
+ORD10520,2024-09-15,2024-09-18,Jaipur,Ahmedabad,FedEx,Rail,WH-South,21.63,490.2,,5.0,Delivered
+ORD11043,2024-06-03,2024-06-08,Kolkata,Bengaluru,XpressBees,Road,WH-North,27.88,365.2,271.8,2.0,Delivered
+ORD10500,2024-07-16,2024-07-19,Delhi,Kolkata,Ekart,Rail,WH-South,45.16,296.9,314.0,4.0,Delivered
+ORD10134,2024-01-16,2024-01-18,Kolkata,Hyderabad,Delhivery,Road,WH-South,12.95,233.3,99.46,2.0,Delivered
+ORD10105,2024-02-17,2024-02-18,Kolkata,Hyderabad,BlueDart,Air,WH-South,24.1,77.7,183.75,3.0,Delivered
+ORD10667,2024-07-15,2024-07-18,Delhi,Bengaluru,BlueDart,Road,WH-South,17.96,325.5,138.21,4.0,Delivered
+ORD10709,05/07/2024,2024-07-05,Pune,Chennai,XpressBees,Air,WH-North,19.24,132.2,93.45,4.0,Delivered
+ORD10125,2024-10-14,2024-10-17,Kolkata,Chennai,XpressBees,Road,WH-West,31.23,263.4,251.68,2.0,Delivered
+ORD11151,2024-01-12,2024-01-16,Bengaluru,Pune,FedEx,Road,WH-South,36.77,662.0,230.61,3.0,Delivered
+ORD10463,2024-10-05,2024-10-08,Jaipur,Lucknow,  DHL  ,Rail,WH-North,37.76,220.7,262.23,3.0,Delivered
+ORD10700,2024-11-14,2024-11-20,Delhi,Hyderabad,XpressBees,Rail,WH-South,22.54,831.2,177.02,4.0,Delivered
+ORD10793,2024-04-02,2024-04-07,Kolkata,Mumbai,Ekart,Rail,WH-Central,14.68,441.4,122.01,4.0,Delivered
+ORD10637,2024-05-13,2024-05-21,Lucknow,Bengaluru,Delhivery,Rail,WH-South,46.27,603.5,312.31,4.0,Delivered
+ORD10384,2024-07-19,2024-07-21,Pune,Ahmedabad,BlueDart,Air,WH-West,35.35,289.2,203.39,,Delivered
+ORD10766,2024-03-05,2024-03-08,Hyderabad,Kolkata,Ekart,Rail,WH-North,9.7,430.1,77.62,5.0,Delivered
+ORD10161,2024-03-09,2024-03-12,Bengaluru,Hyderabad,DHL,Road,WH-North,20.34,282.8,134.98,4.0,Delivered
+ORD10565,2024-12-28,2025-01-01,Jaipur,Bengaluru,Ekart,Road,WH-East,25.57,432.3,153.32,4.0,Delivered
+ORD10799,2024-05-25,2024-05-27,Chennai,Delhi,Delhivery,Road,WH-East,82.27,278.5,396.61,4.0,Delivered
+ORD10501,2024-04-19,,Pune,Mumbai,BlueDart,Rail,WH-North,17.47,247.6,138.12,3.0,Cancelled
+ORD10199,2024-07-11,2024-07-14,Ahmedabad,Hyderabad,FedEx,Rail,WH-South,21.03,264.8,125.53,5.0,Delivered
+ORD11007,2024-10-25,2024-10-31,Delhi,Lucknow,BlueDart,Sea,WH-West,15.3,433.4,82.83,4.0,Delivered
+ORD10797,2024-06-18,2024-06-19,Kolkata,Mumbai,XpressBees,Road,WH-West,24.96,168.1,181.37,5.0,Delivered
+ORD10784,22/09/2024,,Chennai,Lucknow,DHL,Rail,WH-Central,44.4,704.1,169.11,5.0,Cancelled
+ORD10373,2024-09-25,2024-10-09,Pune,Ahmedabad,FedEx,Sea,WH-Central,34.78,1731.9,396.78,4.0,Delivered
+ORD10441,2024-09-06,2024-09-10,Delhi,Lucknow,FedEx,Road,WH-West,26.84,292.6,139.09,5.0,Delivered
+ORD10119,2024-10-06,2024-10-07,Chennai,Ahmedabad,Delhivery,Air,WH-North,20.55,93.7,104.87,5.0,Delivered
+ORD10489,2024-04-07,2024-04-09,Mumbai,Lucknow,DHL,Road,WH-East,21.92,276.7,184.74,,Delivered
+ORD10552,2024-07-01,,Delhi,Pune,Delhivery,Air,WH-East,8.84,170.9,70.8,,Delayed
+ORD10080,2024-11-19,2024-11-22,Hyderabad,Lucknow,Ekart,Rail,WH-West,38.14,462.8,287.19,5.0,Delivered
+ORD11106,2024-05-09,2024-05-13,Pune,Bengaluru,XpressBees,Sea,WH-Central,17.21,373.3,226.05,4.0,Delivered
+ORD10693,2024-01-16,2024-01-20,Ahmedabad,Chennai,Delhivery,Road,WH-Central,9.29,523.1,38.09,3.0,Delivered
+ORD11134,2024-10-11,2024-10-17,Jaipur,Kolkata,XpressBees,Rail,WH-West,5.85,701.2,147.11,3.0,Delivered
+ORD11056,2024-05-03,2024-05-07,Bengaluru,Mumbai,DHL,Road,WH-South,31.78,632.1,217.88,3.0,Delivered
+ORD10374,2024-12-08,2024-12-12,Bengaluru,Ahmedabad,Ekart,Road,WH-South,55.58,348.6,,4.0,Delivered
+ORD10211,2024-01-28,,Chennai,Delhi,DHL,Sea,WH-East,14.86,531.9,210.69,4.0,Cancelled
+ORD11123,01/11/2024,2024-11-06,jaipur,Hyderabad,FedEx,Road,WH-Central,54.04,750.8,370.45,4.0,Delivered
+ORD10578,2024-11-18,2024-11-20,Lucknow,Mumbai,FedEx,Road,WH-North,30.31,241.5,121.17,4.0,Delivered
+ORD10518,2024-08-29,2024-09-02,Mumbai,Lucknow,FedEx,Road,WH-Central,10.41,632.2,114.56,4.0,Delivered
+ORD10118,2024-11-18,2024-11-19,Lucknow,Pune,XpressBees,Air,WH-South,14.23,110.0,73.08,5.0,Delivered
+ORD10662,2024-07-06,2024-07-07,Pune,Ahmedabad,Delhivery,Air,WH-East,47.03,106.5,288.01,5.0,Delivered
+ORD10544,2024-11-24,,Delhi,Mumbai,Delhivery,Road,WH-East,29.74,452.6,202.89,4.0,In Transit
+ORD10943,2024-09-01,2024-09-03,Delhi,Kolkata,,Road,WH-South,14.08,256.5,45.2,4.0,Delivered
+ORD10909,2024-01-13,2024-01-18,Bengaluru,Mumbai,Ekart,Road,WH-West,14.91,414.6,131.88,3.0,Delivered
+ORD10907,2024-12-07,2024-12-19,Bengaluru,Pune,  XpressBees  ,Sea,WH-West,36.5,1693.3,261.55,5.0,Delivered
+ORD10859,2024-11-28,2024-12-02,Hyderabad,Jaipur,BlueDart,Road,WH-East,16.31,290.5,180.03,4.0,Delivered
+ORD10547,2024-12-19,2024-12-23,Kolkata,Delhi,XpressBees,Road,WH-West,22.26,470.5,108.86,5.0,Delivered
+ORD10127,2024-05-24,2024-05-30,Kolkata,Chennai,Delhivery,Road,WH-East,96.0,,,5.0,Delivered
+ORD10763,2024-08-08,2024-08-09,Mumbai,Bengaluru,,Air,WH-South,101.78,171.2,512.92,1.0,Delivered
+ORD10792,2024-11-27,2024-11-28,Lucknow,Delhi,Ekart,Air,WH-South,21.66,224.5,169.44,4.0,Delivered
+ORD10636,2024-10-18,2024-10-25,Kolkata,Hyderabad,DHL,Sea,WH-Central,51.83,1028.5,,4.0,Delivered
+ORD10399,2024-06-11,,ahmedabad,Kolkata,Delhivery,Road,WH-West,26.57,470.3,209.8,5.0,Delayed
+ORD10174,2024-10-14,2024-10-17,Ahmedabad,Kolkata,DHL,Road,WH-East,63.15,304.6,402.91,5.0,Delivered
+ORD10320,2024-02-05,2024-02-09,Jaipur,Ahmedabad,BlueDart,Road,WH-North,63.76,563.6,282.5,4.0,Delivered
+ORD11118,2024-12-29,2024-12-31,Hyderabad,Delhi,BlueDart,Air,WH-Central,836.511162700089,259.1,256.07,5.0,Delivered
+ORD10469,2024-04-04,,Kolkata,Delhi,DHL,Road,WH-North,5.08,281.8,152.5,4.0,In Transit
+ORD10787,2024-12-18,,Pune,Chennai,  DHL  ,Road,WH-South,16.21,278.9,103.24,1.0,In Transit
+ORD11150,2024-09-28,2024-10-02,Hyderabad,Chennai,FedEx,Road,WH-East,4.76,560.1,128.93,5.0,Delivered
+ORD10079,2024-03-24,2024-03-29,Pune,Mumbai,  XpressBees  ,Rail,WH-North,9.76,381.9,175.59,4.0,Delivered
+ORD11036,2024-11-08,,Chennai,Bengaluru,Delhivery,Road,WH-West,53.01,570.9,341.33,4.0,Cancelled
+ORD10457,2024-08-12,2024-08-16,Chennai,Hyderabad,BlueDart,Rail,WH-West,12.63,574.6,111.32,3.0,Delivered
+ORD10290,2024-04-24,,Delhi,Kolkata,FedEx,Sea,WH-North,9.13,866.5,197.36,4.0,Delayed
+ORD10370,2024-01-29,,Mumbai,Kolkata,,Road,WH-North,21.27,316.8,179.87,4.0,Delayed
+ORD11011,02/01/2024,2024-01-05,Mumbai,Chennai,DHL,Road,WH-Central,35.47,472.1,,3.0,Delivered
+ORD10477,2024-01-09,,Mumbai,Ahmedabad,XpressBees,Sea,WH-South,38.87,999.2,322.66,4.0,Cancelled
+ORD10910,2024-02-10,2024-02-11,Chennai,Kolkata,XpressBees,Air,WH-North,9.93,104.3,87.04,2.0,Delivered
+ORD11043,2024-06-03,2024-06-08,Kolkata,Bengaluru,XpressBees,Road,WH-North,27.88,365.2,271.8,2.0,Delivered
+ORD11083,2024-09-09,2024-09-10,Chennai,Ahmedabad,FedEx,Air,WH-South,12.6,102.5,53.98,4.0,Delivered
+ORD10473,2024-08-20,2024-08-31,Chennai,Kolkata,XpressBees,Sea,WH-South,63.22,785.4,,3.0,Delivered
+ORD10197,2024-10-16,2024-10-19,Hyderabad,Delhi,BlueDart,Road,WH-East,26.63,349.1,157.84,3.0,Delivered
+ORD10185,2024-05-20,2024-05-24,Bengaluru,Delhi,FedEx,Road,WH-North,60.48,578.0,417.28,,Delivered
+ORD10678,2024-10-05,2024-10-10,Delhi,Mumbai,Delhivery,Road,WH-Central,22.48,638.9,134.43,5.0,Delivered
+ORD10421,2024-10-04,2024-10-07,Pune,Jaipur,BlueDart,Road,WH-West,8.76,505.0,130.98,4.0,Delivered
+ORD10451,2024-12-16,2024-12-18,Delhi,Jaipur,Delhivery,Road,WH-South,64.61,,333.62,1.0,Delivered
+ORD10256,2024-05-17,2024-05-20,Chennai,Lucknow,BlueDart,Road,WH-East,3.42,321.0,115.86,4.0,Delivered
+ORD10135,2024-05-23,,Delhi,Jaipur,  DHL  ,Road,WH-North,65.68,470.7,374.84,5.0,In Transit
+ORD10745,2024-04-24,2024-04-28,Delhi,Ahmedabad,Ekart,Road,WH-North,59.47,353.1,310.88,,Delivered
+ORD10818,2024-06-20,2024-06-26,jaipur,Hyderabad,Delhivery,Rail,WH-West,24.44,588.9,234.35,4.0,Delivered
+ORD10583,2024-08-15,,Hyderabad,Delhi,DHL,Sea,WH-East,,1442.2,252.02,5.0,In Transit
+ORD10921,2024-05-03,2024-05-04,Hyderabad,Bengaluru,Delhivery,Road,WH-East,30.64,178.9,265.82,3.0,Delivered
+ORD11097,2024-03-28,2024-03-31,Ahmedabad,Jaipur,XpressBees,Road,WH-East,16.17,317.4,93.53,5.0,Delivered
+ORD11129,2024-07-21,,Jaipur,Pune,Delhivery,Road,WH-South,29.92,326.7,156.12,2.0,Delayed
+ORD10049,2024-07-05,2024-07-06,Ahmedabad,Bengaluru,DHL,Air,WH-South,749.6155680587308,109.0,145.86,4.0,Delivered
+ORD10895,2024-01-17,2024-01-17,Kolkata,Jaipur,Delhivery,Air,WH-North,85.13,73.7,466.61,4.0,Delivered
+ORD11017,2024-06-01,2024-06-03,Delhi,Jaipur,BlueDart,Road,WH-West,31.24,202.4,156.32,4.0,Delivered
+ORD10526,2024-11-09,,Mumbai,Kolkata,FedEx,Sea,WH-West,80.81,1578.2,518.93,3.0,Cancelled
+ORD10646,2024-07-24,2024-07-25,Ahmedabad,Bengaluru,FedEx,Air,WH-Central,56.79,119.7,356.12,5.0,Delivered
+ORD10906,2024-08-02,,Lucknow,Pune,  XpressBees  ,Road,WH-East,27.72,229.4,230.25,5.0,In Transit
+ORD10462,2024-07-02,2024-07-07,Chennai,Pune,FedEx,Rail,WH-Central,23.33,559.6,263.29,3.0,Delivered
+ORD11140,2024-05-30,,Mumbai,Jaipur,DHL,Air,WH-South,4.39,86.5,118.83,5.0,Delayed
+ORD10653,2024-12-17,2024-12-23,Kolkata,Ahmedabad,DHL,Rail,WH-Central,35.51,,241.36,4.0,Delivered
+ORD11046,2024-09-19,2024-09-23,Chennai,Delhi,FedEx,Rail,WH-South,31.39,450.2,315.65,3.0,Delivered
+ORD10468,2024-10-11,2024-10-14,Lucknow,Ahmedabad,Ekart,Road,WH-West,21.31,370.7,125.31,5.0,Delivered
+ORD10033,2024-11-01,2024-11-07,Pune,Delhi,  FedEx  ,Rail,WH-Central,26.18,474.6,241.23,3.0,Delivered
+ORD10416,2024-11-04,2024-11-08,Mumbai,Ahmedabad,FedEx,Road,WH-South,17.15,554.3,159.16,5.0,Delivered
+ORD10247,2024-05-09,2024-05-13,ahmedabad,Pune,BlueDart,Road,WH-South,37.17,609.4,261.0,4.0,Delivered
+ORD10872,2024-10-25,2024-10-28,Mumbai,Jaipur,Ekart,Road,WH-West,27.02,292.6,241.69,5.0,Delivered
+ORD10786,2024-08-03,2024-08-06,Mumbai,Kolkata,FedEx,Road,WH-North,14.12,237.8,214.78,4.0,Delivered
+ORD11087,2024-01-15,2024-01-16,Lucknow,Jaipur,XpressBees,Air,WH-West,24.28,145.0,176.22,5.0,Delivered
+ORD10856,2024-08-16,,Hyderabad,Mumbai,Ekart,Road,WH-East,7.86,539.2,210.16,4.0,Cancelled
+ORD10216,2024-12-13,2024-12-16,delhi,Mumbai,DHL,Road,WH-North,23.26,390.6,201.99,4.0,Delivered
+ORD11196,2024-01-31,2024-02-06,Delhi,Chennai,Delhivery,Road,WH-East,25.92,443.1,178.22,4.0,Delivered
+ORD11014,2024-05-20,2024-05-25,Delhi,Jaipur,BlueDart,Road,WH-South,27.94,321.7,,4.0,Delivered
+ORD10543,2024-10-17,2024-10-17,jaipur,Bengaluru,  FedEx  ,Air,WH-North,22.07,67.7,110.94,4.0,Delivered
+ORD10493,2024-09-08,2024-09-12,Lucknow,Hyderabad,Ekart,Road,WH-West,31.14,498.4,219.39,4.0,Delivered
+ORD10464,2024-04-05,2024-04-06,Delhi,Kolkata,FedEx,Air,WH-South,22.61,107.5,163.56,1.0,Delivered
+ORD10391,2024-02-01,2024-02-05,Bengaluru,Delhi,XpressBees,Road,WH-East,25.35,392.6,214.39,4.0,Delivered
+ORD10438,2024-09-29,2024-10-02,Lucknow,Delhi,Delhivery,Road,WH-East,42.7,293.4,217.84,5.0,Delivered
+ORD10838,2024-11-09,2024-11-11,Pune,Jaipur,BlueDart,Air,WH-Central,22.95,306.1,110.29,,Delivered
+ORD10326,2024-08-17,2024-08-29,Hyderabad,Pune,BlueDart,Sea,WH-Central,29.14,1146.5,292.72,4.0,Delivered
+ORD10692,2024-04-02,2024-04-10,Bengaluru,Delhi,Ekart,Rail,WH-Central,15.13,730.5,132.21,4.0,Delivered
+ORD10465,2024-03-27,2024-04-03,Delhi,Kolkata,BlueDart,Rail,WH-South,33.2,,234.21,4.0,Delivered
+ORD10553,2024-02-06,2024-02-11,Bengaluru,Hyderabad,DHL,Road,WH-West,27.07,470.2,222.02,4.0,Delivered
+ORD10061,2024-01-09,,Ahmedabad,Chennai,FedEx,Air,WH-North,56.35,65.1,335.68,2.0,In Transit
+ORD10418,2024-01-18,2024-01-20,Pune,Chennai,Ekart,Road,WH-West,8.03,209.7,62.65,4.0,Delivered
+ORD10812,2024-09-14,,Bengaluru,Pune,XpressBees,Road,WH-West,54.32,401.2,367.79,3.0,In Transit
+ORD11185,2024-10-25,2024-10-27,Jaipur,Chennai,FedEx,Road,WH-Central,11.22,254.0,131.24,5.0,Delivered
+ORD10538,2024-06-08,,Hyderabad,Jaipur,BlueDart,Road,WH-North,36.81,305.7,246.72,5.0,Delayed
+ORD10155,2024-05-30,2024-06-02,Lucknow,Jaipur,Ekart,Road,WH-Central,42.16,386.7,259.4,,Delivered
+ORD10967,2024-01-11,2024-01-15,Kolkata,Pune,DHL,Road,WH-North,13.38,314.8,169.2,4.0,Delivered
+ORD11000,2024-03-01,2024-03-05,Chennai,Hyderabad,BlueDart,Road,WH-Central,12.55,359.6,128.33,4.0,Delivered
+ORD10627,2024-10-15,2024-10-18,Delhi,Pune,Ekart,Road,WH-Central,12.74,405.4,178.91,4.0,Delivered
+ORD10366,2024-10-19,2024-10-22,Lucknow,Ahmedabad,BlueDart,Road,WH-South,2.97,319.2,100.0,4.0,Delivered
+ORD10348,2024-08-16,2024-08-20,Mumbai,Bengaluru,BlueDart,Road,WH-South,,364.5,297.4,3.0,Delivered
+ORD10944,2024-03-14,2024-03-21,Kolkata,Delhi,XpressBees,Rail,WH-South,39.91,950.8,,5.0,Delivered
+ORD11105,2024-07-22,,Jaipur,Kolkata,XpressBees,Rail,WH-South,13.69,582.7,148.76,3.0,Delayed
+ORD10166,2024-02-06,,Lucknow,Kolkata,FedEx,Air,WH-North,17.86,119.6,170.48,4.0,Delayed
+ORD10870,2024-05-11,2024-05-15,Pune,Jaipur,  XpressBees  ,Road,WH-Central,11.93,294.6,142.92,2.0,Delivered
+ORD10926,2024-04-02,,Bengaluru,Mumbai,Ekart,Road,WH-East,60.87,419.3,382.36,4.0,Delayed
+ORD10546,2024-08-24,2024-08-26,Pune,Chennai,Ekart,Road,WH-West,48.22,146.4,287.68,,Delivered
+ORD10204,2024-11-09,2024-11-12,Delhi,Chennai,FedEx,Road,WH-East,29.51,466.0,167.03,4.0,Delivered
+ORD10898,2024-09-15,,kolkata,Hyderabad,Delhivery,Road,WH-East,,483.3,327.34,4.0,Cancelled
+ORD10605,2024-11-17,,Lucknow,Pune,Ekart,Rail,WH-West,4.9,763.6,105.13,4.0,Cancelled
+ORD11104,2024-09-05,2024-09-08,Kolkata,Delhi,BlueDart,Road,WH-Central,69.19,367.9,365.1,4.0,Delivered
+ORD10186,22/12/2024,2024-12-26,Mumbai,Bengaluru,Ekart,Road,WH-East,9.03,317.1,119.91,5.0,Delivered
+ORD11181,2024-09-24,2024-09-26,Pune,Ahmedabad,FedEx,Road,WH-East,8.64,338.8,156.01,4.0,Delivered
+ORD11035,2024-07-20,,Chennai,Delhi,XpressBees,Sea,WH-South,52.29,976.5,298.86,5.0,Cancelled
+ORD10009,2024-03-24,2024-03-29,Pune,Lucknow,XpressBees,Road,WH-East,19.76,334.8,59.5,3.0,Delivered
+ORD10010,2024-01-24,2024-01-28,Ahmedabad,Hyderabad,BlueDart,Road,WH-North,11.94,516.4,112.14,3.0,Delivered
+ORD10935,2024-11-23,2024-11-26,Kolkata,Hyderabad,BlueDart,Road,WH-East,3.69,329.8,133.08,4.0,Delivered
+ORD10851,2024-12-28,2024-12-31,Ahmedabad,Kolkata,XpressBees,Road,WH-West,30.06,340.8,209.46,4.0,Delivered
+ORD10636,2024-10-18,2024-10-25,Kolkata,Hyderabad,DHL,Sea,WH-Central,51.83,1028.5,,4.0,Delivered
+ORD10555,2024-05-14,2024-05-26,Bengaluru,Jaipur,XpressBees,Sea,WH-East,26.11,1626.4,252.77,3.0,Delivered
+ORD10289,2024-08-24,,Ahmedabad,Hyderabad,Delhivery,Sea,WH-South,15.65,631.9,215.25,3.0,Delayed
+ORD10427,2024-04-18,2024-04-24,kolkata,Hyderabad,XpressBees,Road,WH-East,16.95,505.9,101.76,2.0,Delivered
+ORD10561,27/07/2024,2024-08-02,Kolkata,Mumbai,BlueDart,Rail,WH-North,7.8,683.7,160.7,3.0,Delivered
+ORD10711,03/10/2024,2024-10-06,jaipur,Lucknow,Delhivery,Road,WH-East,33.44,300.4,215.3,1.0,Delivered
+ORD11148,2024-09-27,2024-10-02,Lucknow,Kolkata,Ekart,Rail,WH-West,12.37,490.2,94.83,5.0,Delivered
+ORD10733,2024-05-12,2024-05-16,Chennai,Ahmedabad,DHL,Road,WH-North,,397.0,173.81,3.0,Delivered
+ORD10896,2024-07-23,,Chennai,Bengaluru,BlueDart,Road,WH-South,377.7701338466844,159.9,185.94,3.0,Delayed
+ORD10720,2024-05-28,2024-05-30,Mumbai,Lucknow,Ekart,Road,WH-South,32.05,,213.83,4.0,Delivered
+ORD10151,2024-01-09,,Lucknow,Delhi,DHL,Road,WH-South,16.11,423.8,187.26,5.0,Delayed
+ORD10112,2024-04-25,2024-04-26,Hyderabad,Delhi,Delhivery,Air,WH-Central,48.22,151.8,323.5,4.0,Delivered
+ORD10805,2024-04-29,2024-05-08,Bengaluru,Pune,DHL,Sea,WH-East,38.21,1167.9,315.31,3.0,Delivered
+ORD10423,2024-11-12,2024-11-17,Chennai,Delhi,FedEx,Road,WH-Central,9.19,,,,Delivered
+ORD10980,2024-12-22,2024-12-24,Bengaluru,Delhi,FedEx,Road,WH-Central,32.14,154.8,161.64,5.0,Delivered
+ORD10975,29/10/2024,2024-10-29,Jaipur,Bengaluru,Ekart,Air,WH-West,39.47,60.6,188.28,3.0,Delivered
+ORD10461,25/05/2024,2024-05-29,Delhi,Jaipur,,Road,WH-West,32.57,325.1,227.46,,Delivered
+ORD11003,2024-12-22,2024-12-24,Ahmedabad,Delhi,BlueDart,Road,WH-North,22.18,333.4,158.14,5.0,Delivered
+ORD10000,2024-10-11,,Pune,Chennai,Ekart,Road,WH-Central,93.63,247.9,455.76,5.0,Cancelled
+ORD11124,2024-05-22,2024-05-28,Lucknow,Mumbai,  FedEx  ,Rail,WH-Central,51.95,852.9,351.84,3.0,Delivered
+ORD10946,2024-10-15,2024-10-20,Delhi,Jaipur,BlueDart,Road,WH-South,33.72,440.2,178.54,5.0,Delivered
+ORD10972,2024-07-23,2024-08-05,Bengaluru,Pune,FedEx,Sea,WH-West,13.78,978.9,204.62,4.0,Delivered
+ORD10712,2024-04-08,2024-04-10,Kolkata,Delhi,FedEx,Road,WH-Central,58.26,327.8,343.61,5.0,Delivered
+ORD10778,2024-06-07,2024-06-14,Delhi,Jaipur,XpressBees,Rail,WH-North,21.64,492.2,181.21,4.0,Delivered
+ORD10759,2024-12-06,2024-12-10,Kolkata,Hyderabad,BlueDart,Road,WH-East,48.65,445.5,282.6,4.0,Delivered
+ORD10908,2024-09-15,,Ahmedabad,Lucknow,Ekart,Air,WH-South,14.77,287.3,167.39,5.0,Cancelled
+ORD10411,2024-06-21,2024-06-23,Hyderabad,Lucknow,FedEx,Road,WH-South,31.83,247.6,208.0,4.0,Delivered
+ORD10322,2024-02-03,,Chennai,Bengaluru,XpressBees,Sea,WH-Central,40.6,1120.5,366.21,4.0,Delayed
+ORD10001,2024-04-21,,Hyderabad,Delhi,FedEx,Road,WH-West,0.86,381.9,122.44,3.0,Cancelled
+ORD10689,2024-05-03,2024-05-11,Pune,Jaipur,Delhivery,Rail,WH-North,,871.3,132.16,4.0,Delivered
+ORD10435,2024-03-08,2024-03-12,Lucknow,Hyderabad,FedEx,Road,WH-Central,27.48,269.7,,1.0,Delivered
+ORD10452,2024-09-29,2024-09-29,Bengaluru,Delhi,Delhivery,Air,WH-Central,17.72,93.3,142.42,4.0,Delivered
+ORD10038,2024-04-07,,Lucknow,Ahmedabad,  Delhivery  ,Road,WH-Central,7.11,232.7,69.76,3.0,Delayed
+ORD10183,2024-07-17,2024-07-21,Delhi,Kolkata,DHL,Road,WH-East,51.38,391.5,400.16,5.0,Delivered
+ORD10217,2024-07-01,2024-07-02,Mumbai,Kolkata,Delhivery,Air,WH-East,21.19,196.9,133.28,5.0,Delivered
+ORD10673,2024-08-03,2024-08-05,delhi,Lucknow,DHL,Road,WH-East,78.8,143.3,456.5,3.0,Delivered
+ORD10306,2024-04-10,2024-04-15,Jaipur,Chennai,  XpressBees  ,Road,WH-West,10.0,502.3,172.56,4.0,Delivered
+ORD10950,2024-04-20,,Delhi,Mumbai,DHL,Rail,WH-East,28.6,377.3,179.38,2.0,Delayed
+ORD10549,2024-04-28,,Bengaluru,Mumbai,XpressBees,Road,WH-South,23.39,501.5,202.33,3.0,In Transit
+ORD10313,2024-07-05,2024-07-10,Kolkata,Ahmedabad,Delhivery,Rail,WH-North,19.87,788.6,229.85,4.0,Delivered
+ORD10860,2024-04-08,2024-04-15,Delhi,Ahmedabad,XpressBees,Rail,WH-Central,16.68,829.6,128.67,5.0,Delivered
+ORD10331,2024-04-26,2024-04-30,Chennai,Hyderabad,BlueDart,Road,WH-Central,,384.6,282.59,4.0,Delivered
+ORD10036,2024-12-17,2024-12-21,Mumbai,Lucknow,BlueDart,Road,WH-South,29.6,513.7,224.8,5.0,Delivered
+ORD11016,2024-05-31,2024-06-03,Delhi,Jaipur,FedEx,Road,WH-East,,254.1,123.49,5.0,Delivered
+ORD10190,2024-08-14,2024-08-18,Bengaluru,Delhi,XpressBees,Rail,WH-East,17.29,426.0,110.85,4.0,Delivered
+ORD10849,2024-10-17,2024-10-18,Bengaluru,Delhi,Delhivery,Road,WH-East,25.57,114.5,162.39,2.0,Delivered
+ORD10959,2024-03-11,2024-03-16,Pune,Kolkata,XpressBees,Road,WH-Central,,373.6,163.45,4.0,Delivered
+ORD10757,2024-05-29,2024-06-05,Delhi,Lucknow,BlueDart,Rail,WH-North,11.18,962.5,151.84,4.0,Delivered
+ORD10577,2024-07-26,2024-07-30,Ahmedabad,Hyderabad,Ekart,Road,WH-Central,39.71,538.7,227.83,2.0,Delivered
+ORD10996,2024-12-29,,hyderabad,Bengaluru,DHL,Rail,WH-West,41.24,416.5,266.68,5.0,Cancelled
+ORD10433,2024-09-18,,Kolkata,Mumbai,Ekart,Road,WH-North,52.93,487.8,326.49,4.0,Delayed
+ORD10163,2024-01-31,2024-02-03,Kolkata,Chennai,XpressBees,Rail,WH-Central,28.9,506.9,230.25,4.0,Delivered
+ORD10263,2024-11-04,2024-11-05,Pune,Jaipur,Ekart,Air,WH-Central,5.5,115.7,114.28,5.0,Delivered
+ORD10231,2024-09-19,2024-09-22,Ahmedabad,Bengaluru,Ekart,Road,WH-West,30.58,387.1,178.72,5.0,Delivered
+ORD10302,2024-12-23,,Ahmedabad,Bengaluru,Delhivery,Road,WH-East,23.22,181.0,185.75,5.0,In Transit
+ORD10175,2024-12-25,2024-12-28,Delhi,Jaipur,Delhivery,Road,WH-East,5.4,195.9,94.22,5.0,Delivered
+ORD11117,2024-03-21,,Hyderabad,Jaipur,BlueDart,Road,WH-South,24.55,307.5,159.99,5.0,Delayed
+ORD10149,2024-07-07,2024-07-08,Lucknow,Hyderabad,Ekart,Air,WH-West,8.77,118.6,91.21,2.0,Delivered
+ORD11172,2024-05-07,2024-05-13,Kolkata,Ahmedabad,BlueDart,Sea,WH-Central,36.38,533.6,291.18,5.0,Delivered
+ORD10071,2024-04-04,2024-04-08,Mumbai,Lucknow,Delhivery,Rail,WH-Central,28.46,433.0,205.35,3.0,Delivered
+ORD10168,2024-04-20,,Jaipur,Hyderabad,Ekart,Road,WH-North,28.64,559.9,249.06,3.0,Delayed
+ORD10455,2024-06-16,2024-06-30,Hyderabad,Bengaluru,Delhivery,Sea,WH-South,15.56,1389.4,194.67,5.0,Delivered
+ORD10089,2024-05-02,2024-05-06,Bengaluru,Ahmedabad,Delhivery,Road,WH-South,13.88,596.6,179.99,4.0,Delivered
+ORD10117,2024-04-17,2024-04-20,Lucknow,Pune,Ekart,Road,WH-North,15.55,368.4,170.58,2.0,Delivered
+ORD11179,2024-09-10,2024-09-14,Kolkata,Delhi,DHL,Road,WH-Central,29.44,483.7,279.11,4.0,Delivered
+ORD10321,2024-11-09,2024-11-14,Kolkata,Mumbai,BlueDart,Road,WH-West,43.53,713.3,271.38,4.0,Delivered
+ORD11071,2024-03-22,2024-03-27,Ahmedabad,Chennai,FedEx,Road,WH-South,52.59,346.9,302.79,5.0,Delivered
+ORD10459,2024-05-14,2024-05-18,Kolkata,Bengaluru,XpressBees,Road,WH-Central,37.95,651.6,329.18,4.0,Delivered
+ORD11195,2024-06-15,,Jaipur,Hyderabad,FedEx,Road,WH-North,28.25,194.6,143.27,2.0,Delayed
+ORD10800,2024-08-10,2024-08-16,Delhi,Bengaluru,FedEx,Rail,WH-South,16.89,531.2,180.51,5.0,Delivered
+ORD10879,2024-10-12,2024-10-20,Jaipur,Chennai,  Ekart  ,Sea,WH-South,28.84,690.1,238.0,5.0,Delivered
+ORD10241,2024-03-15,2024-03-16,jaipur,Lucknow,Delhivery,Air,WH-East,36.29,262.8,231.36,1.0,Delivered
+ORD10847,2024-05-14,,Hyderabad,Chennai,Ekart,Air,WH-North,6.45,,19.65,3.0,Delayed
+ORD10270,2024-01-12,,Ahmedabad,Jaipur,DHL,Road,WH-Central,22.22,395.5,194.91,3.0,Cancelled
+ORD10111,2024-11-12,2024-11-16,Delhi,Bengaluru,XpressBees,Road,WH-West,20.26,467.1,158.23,5.0,Delivered
+ORD10595,2024-01-01,2024-01-03,Bengaluru,Jaipur,XpressBees,Road,WH-West,41.32,323.6,270.95,2.0,Delivered
+ORD10516,2024-03-26,2024-03-31,lucknow,Delhi,XpressBees,Rail,WH-West,43.44,322.5,212.46,4.0,Delivered
+ORD10226,2024-10-02,2024-10-09,Jaipur,Hyderabad,FedEx,Sea,WH-South,65.26,509.4,315.62,4.0,Delivered
+ORD10496,2024-05-21,2024-05-22,Hyderabad,Lucknow,XpressBees,Air,WH-North,24.28,160.6,232.16,3.0,Delivered
+ORD10498,2024-11-03,2024-11-10,Ahmedabad,Mumbai,DHL,Rail,WH-West,39.21,768.0,276.8,4.0,Delivered
+ORD10824,2024-09-23,2024-09-27,Chennai,Jaipur,Delhivery,Road,WH-North,25.38,276.8,144.15,5.0,Delivered
+ORD11034,2024-05-27,2024-05-31,jaipur,Kolkata,BlueDart,Road,WH-North,38.51,571.3,290.71,3.0,Delivered
+ORD10195,2024-09-26,2024-09-30,Ahmedabad,Mumbai,XpressBees,Road,WH-West,41.58,555.4,309.43,5.0,Delivered
+ORD10336,31/08/2024,,Lucknow,Kolkata,DHL,Road,WH-Central,12.43,289.0,109.95,2.0,In Transit
+ORD10775,2024-08-13,2024-08-15,Ahmedabad,Hyderabad,XpressBees,Road,WH-West,51.99,237.1,240.02,4.0,Delivered
+ORD10865,2024-04-02,2024-04-02,Ahmedabad,Kolkata,DHL,Air,WH-West,46.2,57.8,242.16,4.0,Delivered
+ORD10719,2024-05-05,2024-05-10,Kolkata,Pune,Delhivery,Rail,WH-East,40.92,505.6,288.55,3.0,Delivered
+ORD10137,2024-01-14,2024-01-17,Mumbai,Ahmedabad,Ekart,Road,WH-West,,251.1,315.94,1.0,Delivered
+ORD10813,2024-05-18,2024-05-22,Ahmedabad,Hyderabad,FedEx,Road,WH-West,20.33,382.6,,3.0,Delivered
+ORD10528,2024-09-29,2024-09-29,Kolkata,Delhi,BlueDart,Air,WH-North,28.59,48.1,81.0,5.0,Delivered
+ORD10507,2024-05-10,2024-05-14,Jaipur,Delhi,XpressBees,Road,WH-West,78.63,436.2,433.74,2.0,Delivered
+ORD10808,2024-04-29,,Ahmedabad,Pune,BlueDart,Rail,WH-East,12.7,,,5.0,Delayed
+ORD10393,2024-07-27,,Chennai,Bengaluru,DHL,Rail,WH-West,7.9,501.9,80.82,2.0,Cancelled
+ORD10382,2024-09-30,,Pune,Hyderabad,FedEx,Road,WH-East,6.39,473.6,125.38,4.0,Cancelled
+ORD10221,2024-04-29,,Kolkata,Jaipur,DHL,Road,WH-South,28.51,500.3,205.68,5.0,Delayed
+ORD10976,2024-01-03,2024-01-07,Ahmedabad,Kolkata,DHL,Road,WH-West,26.2,404.0,182.06,4.0,Delivered
+ORD10677,2024-03-08,2024-03-11,Bengaluru,Jaipur,Ekart,Road,WH-South,12.67,364.0,77.63,4.0,Delivered
+ORD10801,2024-04-10,,Pune,Chennai,DHL,Road,WH-East,73.52,319.2,400.86,4.0,Delayed
+ORD10328,2024-06-15,2024-06-20,Kolkata,Pune,FedEx,Road,WH-North,69.84,399.7,372.91,3.0,Delivered
+ORD10012,2024-10-18,2024-10-19,Hyderabad,Pune,DHL,Air,WH-West,25.55,236.5,136.01,4.0,Delivered
+ORD10889,2024-01-13,2024-01-17,Jaipur,Kolkata,DHL,Road,WH-South,20.83,380.2,147.52,1.0,Delivered
+ORD10083,2024-05-26,2024-05-30,Delhi,Lucknow,FedEx,Road,WH-North,16.86,345.5,177.4,1.0,Delivered
+ORD10206,2024-07-07,2024-07-09,Bengaluru,Lucknow,  BlueDart  ,Road,WH-North,42.27,213.0,,4.0,Delivered
+ORD10103,2024-05-11,2024-05-14,Pune,Bengaluru,DHL,Road,WH-South,42.5,345.3,240.18,4.0,Delivered
+ORD10309,2024-08-22,2024-08-26,Chennai,Bengaluru,Delhivery,Road,WH-North,19.21,387.8,148.7,3.0,Delivered
+ORD10993,2024-03-27,,Kolkata,Delhi,FedEx,Road,WH-Central,71.4,387.7,381.52,,Delayed
+ORD11078,2024-11-02,2024-11-04,Kolkata,Lucknow,BlueDart,Road,WH-North,85.54,230.9,373.82,3.0,Delivered
+ORD10180,2024-07-19,2024-07-26,Delhi,Hyderabad,DHL,Rail,WH-Central,21.23,,252.94,4.0,Delivered
+ORD10857,2024-07-26,2024-08-03,Jaipur,Bengaluru,  BlueDart  ,Rail,WH-North,5.43,867.3,102.17,5.0,Delivered
+ORD11146,2024-08-03,2024-08-07,Jaipur,Chennai,Ekart,Road,WH-West,38.47,461.7,273.31,4.0,Delivered
+ORD10497,2024-12-14,,Hyderabad,Chennai,Ekart,Road,WH-South,40.86,357.6,218.41,3.0,Cancelled
+ORD10316,2024-02-02,,Pune,Jaipur,Ekart,Road,WH-West,4.61,509.8,153.88,3.0,Cancelled
+ORD10141,2024-03-28,2024-04-08,Lucknow,Jaipur,Delhivery,Sea,WH-North,20.96,1255.4,233.68,3.0,Delivered
+ORD10973,21/02/2024,2024-02-22,Jaipur,Ahmedabad,BlueDart,Air,WH-South,28.42,138.6,151.98,3.0,Delivered
+ORD10327,2024-01-29,2024-01-31,Jaipur,Lucknow,XpressBees,Road,WH-South,,382.4,187.5,5.0,Delivered
+ORD10660,2024-08-27,2024-08-28,Jaipur,Kolkata,FedEx,Air,WH-East,24.23,209.8,217.27,5.0,Delivered
+ORD10346,2024-02-18,2024-02-21,Kolkata,Jaipur,Ekart,Road,WH-Central,5.27,339.9,27.3,5.0,Delivered
+ORD10210,2024-06-25,2024-06-29,Bengaluru,Lucknow,Ekart,Road,WH-Central,21.75,657.5,266.93,5.0,Delivered
+ORD10567,2024-06-24,2024-06-25,Mumbai,Kolkata,DHL,Air,WH-South,22.67,130.6,68.94,5.0,Delivered
+ORD10142,2024-12-23,2024-12-27,Delhi,Hyderabad,  Ekart  ,Road,WH-West,70.51,286.0,435.17,3.0,Delivered
+ORD10514,2024-04-01,2024-04-04,Delhi,Jaipur,FedEx,Road,WH-Central,18.01,319.6,77.63,5.0,Delivered
+ORD10362,2024-08-30,2024-09-01,ahmedabad,Hyderabad,Delhivery,Road,WH-North,76.34,262.3,434.92,,Delivered
+ORD10004,2024-04-29,2024-04-30,Delhi,Kolkata,XpressBees,Air,WH-West,35.33,198.2,251.21,5.0,Delivered
+ORD10044,2024-07-10,2024-07-16,Hyderabad,Mumbai,FedEx,Road,WH-West,48.84,823.2,361.47,5.0,Delivered
+ORD10281,2024-12-12,2024-12-15,Mumbai,Jaipur,Delhivery,Road,WH-Central,27.85,412.9,231.35,4.0,Delivered
+ORD10202,2024-01-16,2024-01-20,Ahmedabad,Bengaluru,Ekart,Road,WH-Central,42.19,477.0,282.45,3.0,Delivered
+ORD10840,2024-12-18,2024-12-21,Chennai,Hyderabad,XpressBees,Road,WH-West,51.41,474.5,268.07,4.0,Delivered
+ORD10358,2024-08-20,2024-08-27,Ahmedabad,Hyderabad,FedEx,Rail,WH-West,17.63,575.2,196.92,4.0,Delivered
+ORD10563,2024-06-24,2024-06-25,Chennai,Delhi,DHL,Air,WH-West,9.23,231.8,97.82,,Delivered
+ORD10770,2024-12-18,2024-12-23,Ahmedabad,Hyderabad,XpressBees,Road,WH-East,64.84,559.4,410.73,1.0,Delivered
+ORD10371,2024-03-13,2024-03-14,Mumbai,Lucknow,  DHL  ,Air,WH-South,10.04,96.3,54.19,5.0,Delivered
+ORD10893,2024-12-13,2024-12-19,Lucknow,Hyderabad,DHL,Rail,WH-East,36.03,604.0,212.01,,Delivered
+ORD10883,2024-02-16,2024-03-02,Lucknow,Chennai,XpressBees,Sea,WH-West,19.24,1590.4,328.33,5.0,Delivered
+ORD11066,2024-09-13,,Jaipur,Delhi,  Ekart  ,Air,WH-North,57.33,198.6,215.15,,Delayed
+ORD10237,2024-09-10,2024-09-12,Hyderabad,Chennai,DHL,Road,WH-North,23.28,327.0,144.72,4.0,Delivered
+ORD10925,2024-01-09,,Chennai,Jaipur,XpressBees,Road,WH-South,34.79,-202.2,281.64,3.0,Delayed
+ORD10683,2024-05-07,2024-05-12,Ahmedabad,Bengaluru,FedEx,Rail,WH-West,14.12,424.4,91.4,1.0,Delivered
+ORD10273,2024-12-19,,Chennai,Bengaluru,Ekart,Air,WH-West,4.4,120.2,60.9,3.0,Delayed
+ORD11010,2024-05-23,,Kolkata,Pune,XpressBees,Road,WH-West,30.42,353.0,262.86,2.0,Cancelled
+ORD10632,2024-09-04,2024-09-08,Delhi,Mumbai,XpressBees,Road,WH-South,38.95,331.6,184.53,4.0,Delivered
+ORD10194,2024-04-19,,Bengaluru,Pune,Delhivery,Road,WH-East,54.39,227.9,291.72,5.0,Cancelled
+ORD10513,2024-11-23,2024-11-25,Bengaluru,Jaipur,DHL,Road,WH-West,31.49,197.1,233.92,5.0,Delivered
+ORD10614,2024-01-14,2024-01-19,Bengaluru,Hyderabad,XpressBees,Road,WH-Central,20.65,364.4,198.91,3.0,Delivered
+ORD10431,2024-08-02,2024-08-03,pune,Mumbai,BlueDart,Air,WH-North,21.95,212.9,,5.0,Delivered
+ORD10674,2024-03-12,2024-03-15,jaipur,Bengaluru,Delhivery,Air,WH-North,38.1,238.0,259.99,4.0,Delivered
+ORD11085,2024-01-04,2024-01-14,Lucknow,Ahmedabad,  BlueDart  ,Sea,WH-East,20.14,897.2,224.84,5.0,Delivered
+ORD10209,2024-01-01,2024-01-06,Pune,Chennai,BlueDart,Road,WH-East,6.9,662.6,160.87,4.0,Delivered
+ORD10162,2024-07-22,2024-07-26,Ahmedabad,Delhi,Delhivery,Road,WH-Central,8.99,587.2,138.52,4.0,Delivered
+ORD10635,2024-02-10,2024-02-12,Kolkata,Ahmedabad,BlueDart,Road,WH-Central,18.46,141.2,191.77,5.0,Delivered
+ORD10986,2024-07-11,,mumbai,Delhi,Delhivery,Sea,WH-West,27.31,1277.2,275.66,5.0,Cancelled
+ORD10853,2024-06-12,2024-06-16,Kolkata,Pune,BlueDart,Road,WH-West,33.93,388.4,254.92,,Delivered
+ORD10087,2024-06-29,,Kolkata,Hyderabad,Ekart,Air,WH-East,112.8,102.8,544.59,5.0,Delayed
+ORD10345,2024-03-17,2024-03-19,Pune,Ahmedabad,DHL,Rail,WH-Central,56.34,233.1,297.21,5.0,Delivered
+ORD10951,2024-02-10,2024-02-14,Chennai,Delhi,,Road,WH-North,64.07,612.7,402.19,,Delivered
+ORD10717,2024-07-21,2024-07-22,Chennai,Hyderabad,XpressBees,Air,WH-Central,29.27,151.0,226.86,5.0,Delivered
+ORD10190,2024-08-14,2024-08-18,Bengaluru,Delhi,XpressBees,Rail,WH-East,17.29,426.0,110.85,4.0,Delivered
+ORD10752,2024-03-06,2024-03-22,Pune,Hyderabad,Ekart,Sea,WH-South,13.56,1552.7,282.37,5.0,Delivered
+ORD10178,2024-09-03,2024-09-06,Bengaluru,Ahmedabad,BlueDart,Road,WH-East,23.78,241.7,152.73,4.0,Delivered
+ORD10768,2024-06-20,2024-06-23,Pune,Lucknow,DHL,Road,WH-Central,21.53,514.6,194.44,5.0,Delivered
+ORD10556,2024-04-07,,Lucknow,Pune,Delhivery,Road,WH-North,,271.8,198.36,5.0,Cancelled
+ORD10876,2024-10-25,2024-10-26,Chennai,Lucknow,Ekart,Road,WH-East,29.44,178.9,,,Delivered
+ORD10392,2024-03-12,2024-03-17,Jaipur,Chennai,FedEx,Road,WH-North,25.56,625.2,262.14,3.0,Delivered
+ORD10480,2024-05-18,,Delhi,Ahmedabad,FedEx,Air,WH-South,25.96,106.9,86.41,4.0,Cancelled
+ORD11175,2024-11-29,2024-11-30,Delhi,Lucknow,BlueDart,Road,WH-South,18.21,98.3,62.54,4.0,Delivered
+ORD10968,2024-12-28,2024-12-29,Lucknow,Delhi,FedEx,Air,WH-South,284.10345390859686,135.2,35.73,5.0,Delivered
+ORD10744,2024-09-07,2024-09-11,hyderabad,Bengaluru,DHL,Road,WH-East,10.8,306.1,197.69,4.0,Delivered
+ORD10997,2024-08-18,2024-08-23,Lucknow,Delhi,  DHL  ,Rail,WH-South,18.01,750.6,129.71,2.0,Delivered
+ORD11165,29/11/2024,2024-11-30,Jaipur,Lucknow,DHL,Air,WH-Central,6.42,161.9,38.67,4.0,Delivered
+ORD11026,2024-05-27,2024-05-30,Kolkata,Delhi,Delhivery,Road,WH-North,,404.3,271.14,5.0,Delivered
+ORD10511,2024-03-13,2024-03-14,Mumbai,Pune,Delhivery,Air,WH-West,20.89,156.3,119.36,5.0,Delivered
+ORD10914,2024-02-04,2024-02-06,Kolkata,Chennai,Delhivery,Road,WH-West,24.34,231.8,157.82,,Delivered
+ORD10439,2024-07-01,2024-07-02,Lucknow,Mumbai,Delhivery,Air,WH-South,7.89,186.8,127.47,4.0,Delivered
+ORD10728,2024-12-27,,Lucknow,Jaipur,Ekart,Road,WH-North,29.54,424.3,193.64,4.0,In Transit
+ORD10471,2024-12-02,2024-12-03,Ahmedabad,Hyderabad,DHL,Road,WH-East,32.01,219.9,196.5,2.0,Delivered
+ORD10398,2024-12-10,,Mumbai,Kolkata,DHL,Rail,WH-Central,27.52,570.4,203.6,5.0,Cancelled
+ORD10874,2024-02-13,2024-02-16,Jaipur,Pune,BlueDart,Road,WH-South,22.34,291.3,192.56,4.0,Delivered
+ORD10035,2024-01-05,2024-01-08,Bengaluru,Ahmedabad,XpressBees,Road,WH-North,24.08,220.8,,4.0,Delivered
+ORD10205,09/08/2024,,Hyderabad,Mumbai,FedEx,Rail,WH-North,17.75,555.5,217.32,4.0,Delayed
+ORD10608,2024-01-28,2024-01-31,Kolkata,Mumbai,BlueDart,Road,WH-North,81.27,529.1,398.68,4.0,Delivered
+ORD11054,2024-03-31,2024-04-04,ahmedabad,Delhi,Delhivery,Road,WH-South,13.87,363.2,117.61,5.0,Delivered
+ORD10828,2024-09-14,2024-09-24,Lucknow,Delhi,Ekart,Sea,WH-Central,29.76,634.0,197.55,5.0,Delivered
+ORD10043,2024-10-20,2024-10-26,Pune,Kolkata,Ekart,Rail,WH-South,43.99,697.5,,2.0,Delivered
+ORD10261,2024-08-26,2024-08-30,Mumbai,Hyderabad,Delhivery,Road,WH-North,,656.8,294.27,5.0,Delivered
+ORD10871,2024-06-19,2024-06-19,Chennai,Mumbai,  XpressBees  ,Air,WH-East,14.03,103.9,96.88,4.0,Delivered
+ORD10429,2024-10-31,2024-11-07,Kolkata,Ahmedabad,FedEx,Rail,WH-East,14.77,,175.96,4.0,Delivered
+ORD10228,2024-09-17,2024-09-23,Mumbai,Lucknow,Delhivery,Rail,WH-North,44.37,763.2,307.75,5.0,Delivered
+ORD10724,2024-11-03,,Pune,Bengaluru,Delhivery,Road,WH-Central,22.76,246.7,162.18,2.0,Delayed
+ORD10005,2024-10-08,2024-10-22,Jaipur,Mumbai,BlueDart,Sea,WH-North,46.43,1715.5,387.89,2.0,Delivered
+ORD11190,2024-11-26,2024-11-29,Jaipur,Ahmedabad,DHL,Road,WH-West,14.33,272.0,164.33,5.0,Delivered
+ORD10995,2024-10-30,2024-11-02,chennai,Bengaluru,Delhivery,Road,WH-South,121.21,453.9,605.34,5.0,Delivered
+ORD10321,2024-11-09,2024-11-14,Kolkata,Mumbai,BlueDart,Road,WH-West,43.53,713.3,271.38,4.0,Delivered
+ORD11128,2024-05-05,2024-05-09,Ahmedabad,Mumbai,DHL,Road,WH-Central,12.43,351.6,143.09,5.0,Delivered
+ORD10585,2024-10-22,2024-10-24,Delhi,Mumbai,Delhivery,Air,WH-South,7.25,192.8,73.55,3.0,Delivered
+ORD10727,2024-12-20,2024-12-22,Pune,Chennai,Ekart,Road,WH-West,55.57,272.3,281.53,3.0,Delivered
+ORD10318,2024-02-04,2024-02-07,Pune,Ahmedabad,XpressBees,Road,WH-East,12.98,420.0,153.5,5.0,Delivered
+ORD10629,2024-11-13,2024-11-17,Ahmedabad,Bengaluru,FedEx,Road,WH-East,12.68,437.7,214.08,5.0,Delivered
+ORD11121,2024-02-13,2024-02-19,Jaipur,Lucknow,DHL,Rail,WH-South,33.43,753.4,,3.0,Delivered
+ORD10034,2024-10-23,2024-10-26,Bengaluru,Jaipur,Ekart,Road,WH-East,14.22,454.4,204.75,4.0,Delivered
+ORD10312,2024-04-11,2024-04-16,Mumbai,Ahmedabad,Ekart,Road,WH-North,37.38,566.3,360.69,4.0,Delivered
+ORD10817,2024-12-16,2024-12-21,Kolkata,Hyderabad,Delhivery,Road,WH-Central,69.55,446.1,4493.431793931228,4.0,Delivered
+ORD10075,2024-02-08,,Mumbai,Bengaluru,BlueDart,Air,WH-East,28.65,166.2,178.83,4.0,Delayed
+ORD10173,2024-06-27,2024-07-01,Kolkata,Hyderabad,FedEx,Road,WH-West,74.85,546.2,385.7,4.0,Delivered
+ORD10094,2024-06-21,2024-06-24,jaipur,Ahmedabad,FedEx,Rail,WH-East,28.11,256.5,190.67,4.0,Delivered
+ORD10051,2024-05-18,2024-05-25,Delhi,Jaipur,BlueDart,Rail,WH-Central,19.8,579.2,102.27,5.0,Delivered
+ORD10551,2024-04-12,2024-04-16,Chennai,Bengaluru,BlueDart,Road,WH-North,31.87,426.7,277.17,5.0,Delivered
+ORD10788,2024-11-14,2024-11-19,Jaipur,Delhi,XpressBees,Road,WH-West,30.13,569.4,208.33,5.0,Delivered
+ORD11199,2024-11-23,2024-11-25,Pune,Ahmedabad,FedEx,Road,WH-East,12.05,350.5,112.98,3.0,Delivered
+ORD10419,2024-01-01,2024-01-04,Delhi,Mumbai,FedEx,Road,WH-Central,18.75,199.8,191.98,4.0,Delivered
+ORD10747,2024-11-11,2024-11-18,Ahmedabad,Hyderabad,XpressBees,Sea,WH-Central,25.0,878.6,188.35,4.0,Delivered
+ORD10220,2024-11-02,,Mumbai,Kolkata,FedEx,Road,WH-North,12.44,151.2,147.92,5.0,In Transit
+ORD10508,26/07/2024,2024-07-30,Ahmedabad,Chennai,Ekart,Road,WH-North,18.51,373.0,171.69,4.0,Delivered
+ORD10710,2024-07-14,2024-07-17,Bengaluru,Chennai,DHL,Road,WH-West,46.0,425.3,388.07,5.0,Delivered
+ORD10864,2024-04-12,2024-04-17,Pune,Ahmedabad,DHL,Road,WH-Central,33.52,441.5,206.65,5.0,Delivered
+ORD10607,2024-06-15,,Jaipur,Chennai,XpressBees,Road,WH-East,49.3,546.9,320.64,3.0,In Transit
+ORD10387,2024-11-09,2024-11-13,Ahmedabad,Kolkata,BlueDart,Rail,WH-South,32.02,378.0,231.12,2.0,Delivered
+ORD10093,2024-02-17,2024-02-18,Chennai,Delhi,XpressBees,Road,WH-East,3.58,160.6,,5.0,Delivered
+ORD10751,2024-01-30,2024-02-03,Chennai,Pune,FedEx,Road,WH-East,15.06,254.8,173.48,5.0,Delivered
+ORD10887,2024-08-30,,Lucknow,Pune,Ekart,Rail,WH-North,23.08,574.4,237.37,4.0,Delayed
+ORD10651,2024-03-06,2024-03-10,Kolkata,Lucknow,FedEx,Road,WH-East,79.0,329.5,458.22,2.0,Delivered
+ORD10148,2024-07-23,2024-08-01,Bengaluru,Jaipur,,Rail,WH-East,56.46,1208.0,431.84,4.0,Delivered
+ORD10753,2024-05-13,2024-05-21,pune,Kolkata,FedEx,Rail,WH-North,11.73,,166.7,3.0,Delivered
+ORD10482,2024-05-26,2024-05-29,Jaipur,Bengaluru,DHL,Road,WH-South,93.79,460.9,544.71,3.0,Delivered
+ORD10402,2024-11-13,,Delhi,Kolkata,Ekart,Road,WH-South,9.23,291.8,71.51,5.0,In Transit
+ORD10249,2024-06-16,2024-06-21,Bengaluru,Lucknow,XpressBees,Road,WH-Central,14.56,586.3,226.22,5.0,Delivered
+ORD10340,2024-02-05,2024-02-09,chennai,Mumbai,FedEx,Road,WH-South,36.17,352.2,185.19,2.0,Delivered
+ORD10927,2024-12-23,,Chennai,Hyderabad,Delhivery,Road,WH-Central,14.5,542.7,2303.171325917768,3.0,Cancelled
+ORD10200,2024-04-09,2024-04-10,Delhi,Bengaluru,Delhivery,Air,WH-North,11.65,193.2,109.33,5.0,Delivered
+ORD10861,2024-11-15,2024-11-18,Bengaluru,Chennai,Ekart,Road,WH-East,4.01,391.0,87.3,3.0,Delivered
+ORD10091,2024-04-19,,Chennai,Kolkata,FedEx,Road,WH-East,18.61,467.2,178.11,4.0,Delayed
+ORD10732,2024-07-13,2024-07-17,Bengaluru,Hyderabad,FedEx,Road,WH-South,29.45,359.1,192.66,4.0,Delivered
+ORD10540,2024-03-09,2024-03-13,Lucknow,Mumbai,BlueDart,Road,WH-South,39.2,415.2,229.78,3.0,Delivered
+ORD10691,2024-08-23,2024-08-27,Chennai,Mumbai,BlueDart,Rail,WH-West,65.67,507.1,376.25,4.0,Delivered
+ORD10584,2024-01-01,,Chennai,Mumbai,DHL,Road,WH-North,9.82,384.1,131.54,2.0,Delayed
+ORD10442,2024-06-03,2024-06-09,Jaipur,Bengaluru,  BlueDart  ,Road,WH-North,18.92,624.0,178.92,3.0,Delivered
+ORD10609,2024-01-17,2024-01-18,Pune,Ahmedabad,Ekart,Road,WH-East,9.01,125.6,59.65,5.0,Delivered
+ORD10283,2024-07-01,2024-07-04,Chennai,Lucknow,FedEx,Road,WH-North,75.48,227.0,345.69,1.0,Delivered
+ORD10280,2024-07-09,2024-07-14,Jaipur,Lucknow,XpressBees,Road,WH-West,36.68,625.7,259.22,3.0,Delivered
+ORD10410,2024-07-14,2024-07-15,Ahmedabad,Mumbai,XpressBees,Road,WH-West,16.57,149.4,180.41,5.0,Delivered
+ORD10918,2024-04-10,2024-04-16,Hyderabad,Kolkata,Ekart,Rail,WH-West,14.9,471.8,169.95,4.0,Delivered
+ORD11048,2024-01-10,2024-01-12,Kolkata,Jaipur,Ekart,Road,WH-Central,20.32,233.7,140.25,4.0,Delivered
+ORD10568,2024-07-11,,Ahmedabad,Lucknow,BlueDart,Road,WH-North,4.38,554.6,187.45,4.0,Delayed
+ORD10903,2024-04-11,2024-04-14,Chennai,Mumbai,BlueDart,Road,WH-West,41.61,398.2,281.22,3.0,Delivered
+ORD10694,2024-08-28,,Hyderabad,Jaipur,XpressBees,Road,WH-East,37.91,412.3,306.99,,Delayed
+ORD11169,2024-01-13,,Lucknow,Mumbai,DHL,Road,WH-Central,26.56,256.9,209.98,4.0,Delayed
+ORD10687,2024-02-29,2024-03-03,Hyderabad,Mumbai,Delhivery,Rail,WH-Central,16.05,402.0,218.6,2.0,Delivered
+ORD10335,2024-07-16,2024-07-28,Jaipur,Kolkata,DHL,Sea,WH-Central,6.96,1271.1,203.22,3.0,Delivered
+ORD10642,2024-06-05,2024-06-08,Ahmedabad,Pune,XpressBees,Road,WH-North,28.73,321.5,163.57,3.0,Delivered
+ORD10314,2024-11-06,2024-11-11,Kolkata,Pune,Ekart,Rail,WH-North,19.86,510.7,95.63,4.0,Delivered
+ORD10782,2024-09-04,2024-09-05,Pune,Jaipur,,Air,WH-East,1.56,171.0,46.09,4.0,Delivered
+ORD10920,2024-04-06,2024-04-11,Jaipur,Mumbai,DHL,Road,WH-South,10.07,679.9,153.48,5.0,Delivered
+ORD11166,2024-02-02,2024-02-05,Pune,Kolkata,DHL,Road,WH-South,26.53,236.5,223.88,,Delivered
+ORD11163,2024-02-09,2024-02-12,Jaipur,Hyderabad,DHL,Road,WH-West,51.84,351.5,263.29,4.0,Delivered
+ORD10506,2024-04-17,2024-04-22,Mumbai,Delhi,Ekart,Road,WH-North,34.52,450.9,171.4,5.0,Delivered
+ORD11060,2024-01-28,2024-02-01,Kolkata,Jaipur,Delhivery,Road,WH-North,24.32,312.5,163.36,5.0,Delivered
+ORD10133,2024-01-08,,Pune,Delhi,XpressBees,Road,WH-Central,45.72,744.4,283.43,3.0,Delayed
+ORD10092,2024-01-09,2024-01-11,Chennai,Bengaluru,FedEx,Air,WH-Central,23.75,210.9,115.83,3.0,Delivered
+ORD10834,2024-08-09,,Mumbai,Pune,FedEx,Air,WH-North,33.71,144.2,123.0,2.0,Cancelled
+ORD10592,2024-09-26,2024-09-30,Hyderabad,Jaipur,BlueDart,Rail,WH-Central,29.58,,214.29,,Delivered
+ORD11193,2024-11-27,,Mumbai,Kolkata,Ekart,Sea,WH-North,27.94,506.9,,4.0,In Transit
+ORD11051,2024-03-31,,Pune,Jaipur,  Delhivery  ,Rail,WH-East,19.99,278.5,140.12,4.0,In Transit
+ORD10394,12/09/2024,2024-09-19,Delhi,Kolkata,BlueDart,Rail,WH-South,6.38,744.3,105.88,4.0,Delivered
+ORD11057,2024-01-31,2024-02-01,pune,Mumbai,BlueDart,Air,WH-West,52.33,151.6,350.25,5.0,Delivered
+ORD11157,2024-05-05,2024-05-12,Chennai,Pune,DHL,Rail,WH-Central,7.83,656.8,128.07,4.0,Delivered
+ORD10575,2024-08-12,2024-08-17,hyderabad,Mumbai,FedEx,Rail,WH-North,50.49,696.1,311.56,4.0,Delivered
+ORD10573,2024-08-21,,Jaipur,Mumbai,FedEx,Road,WH-Central,6.83,383.7,160.54,3.0,Delayed
+ORD10278,2024-02-21,2024-02-24,Ahmedabad,Lucknow,Ekart,Rail,WH-Central,31.07,284.8,230.28,,Delivered
+ORD10735,2024-09-24,2024-10-11,ahmedabad,Bengaluru,BlueDart,Sea,WH-West,60.12,1165.8,,4.0,Delivered
+ORD11045,2024-12-07,2024-12-11,Hyderabad,Lucknow,DHL,Road,WH-Central,47.16,479.3,266.2,5.0,Delivered
+ORD10279,2024-05-16,2024-05-19,Pune,Jaipur,XpressBees,Road,WH-Central,16.04,364.2,199.12,5.0,Delivered
+ORD10639,2024-02-04,2024-02-06,Kolkata,Chennai,Delhivery,Air,WH-South,26.54,281.7,152.93,1.0,Delivered
+ORD10337,2024-07-03,,Bengaluru,Jaipur,Delhivery,Road,WH-North,74.31,260.9,481.16,5.0,In Transit
+ORD10227,2024-01-16,2024-01-30,Delhi,Lucknow,BlueDart,Sea,WH-North,5.73,1680.2,194.84,4.0,Delivered
+ORD10698,2024-07-03,2024-07-06,Ahmedabad,Pune,XpressBees,Road,WH-South,31.49,321.0,236.42,4.0,Delivered
+ORD10008,2024-08-15,2024-08-16,Pune,Bengaluru,XpressBees,Air,WH-East,14.95,128.7,114.92,4.0,Delivered
+ORD10085,2024-07-14,2024-07-15,Bengaluru,Pune,Ekart,Road,WH-West,68.54,253.8,450.57,3.0,Delivered
+ORD11135,2024-05-21,2024-06-01,Bengaluru,Ahmedabad,Delhivery,Sea,WH-Central,37.13,852.8,337.89,5.0,Delivered
+ORD10912,2024-05-31,2024-06-04,Chennai,Pune,Ekart,Road,WH-Central,41.4,494.9,279.42,3.0,Delivered
+ORD10068,2024-09-20,2024-09-28,Bengaluru,Chennai,BlueDart,Rail,WH-South,34.05,1118.3,,4.0,Delivered
+ORD11113,2024-07-06,2024-07-08,Hyderabad,Lucknow,Ekart,Road,WH-North,107.37,327.3,514.6,4.0,Delivered
+ORD10096,2024-06-07,2024-06-16,Hyderabad,Kolkata,Ekart,Rail,WH-West,18.26,1315.3,273.47,5.0,Delivered
+ORD10341,02/12/2024,2024-12-05,Delhi,Ahmedabad,Ekart,Road,WH-Central,21.62,407.1,165.59,5.0,Delivered
+ORD10121,2024-09-09,,Lucknow,Hyderabad,Ekart,Air,WH-Central,31.33,122.8,2095.214513169502,2.0,Delayed
+ORD10156,2024-04-03,2024-04-11,ahmedabad,Lucknow,Ekart,Sea,WH-North,37.67,777.2,284.89,4.0,Delivered
+ORD10568,2024-07-11,,Ahmedabad,Lucknow,BlueDart,Road,WH-North,4.38,554.6,187.45,4.0,Delayed
+ORD10947,2024-01-19,2024-01-25,Ahmedabad,Lucknow,FedEx,Rail,WH-East,9.42,560.5,150.69,3.0,Delivered
+ORD10994,2024-01-13,2024-01-17,Kolkata,Pune,XpressBees,Road,WH-North,12.88,467.6,172.8,5.0,Delivered
+ORD10633,2024-02-16,2024-02-19,lucknow,Kolkata,Delhivery,Road,WH-East,18.88,282.2,74.69,4.0,Delivered
+ORD10470,2024-03-08,2024-03-13,Delhi,Lucknow,XpressBees,Rail,WH-West,19.96,432.9,225.04,3.0,Delivered
+ORD10557,2024-11-09,2024-11-21,Lucknow,Hyderabad,FedEx,Sea,WH-West,21.99,796.3,211.65,4.0,Delivered
+ORD10723,2024-12-30,2025-01-11,Delhi,Ahmedabad,Ekart,Sea,WH-North,43.41,755.7,269.34,1.0,Delivered
+ORD10293,2024-12-23,2024-12-28,Kolkata,Hyderabad,Ekart,Road,WH-East,38.57,655.9,237.96,3.0,Delivered
+ORD10772,2024-03-25,2024-03-31,Lucknow,Ahmedabad,DHL,Rail,WH-Central,47.08,638.0,309.31,4.0,Delivered
+ORD10414,2024-02-17,2024-02-20,Pune,Chennai,  Ekart  ,Road,WH-East,22.25,326.9,186.88,3.0,Delivered
+ORD11055,2024-12-22,,Mumbai,Ahmedabad,Ekart,Road,WH-West,65.7,423.1,351.05,4.0,Delayed
+ORD11153,2024-11-13,2024-11-18,Mumbai,Pune,BlueDart,Road,WH-South,1.35,376.3,140.48,4.0,Delivered
+ORD10164,2024-06-05,2024-06-07,Delhi,Kolkata,FedEx,Air,WH-Central,116.15,266.9,601.8,3.0,Delivered
+ORD10120,2024-08-09,2024-08-12,Mumbai,Pune,Ekart,Rail,WH-Central,30.55,347.8,227.87,3.0,Delivered
+ORD10905,2024-02-17,,Pune,Ahmedabad,Ekart,Air,WH-South,12.54,150.6,86.5,5.0,Cancelled
+ORD10696,2024-03-18,2024-03-18,Hyderabad,Mumbai,XpressBees,Air,WH-East,17.47,64.2,100.09,4.0,Delivered
+ORD10282,2024-07-06,2024-07-07,Jaipur,Pune,Delhivery,Air,WH-North,28.41,193.9,274.3,,Delivered
+ORD10364,2024-02-08,2024-02-09,Ahmedabad,Lucknow,Ekart,Air,WH-North,132.77,228.0,698.88,5.0,Delivered
+ORD10746,2024-07-20,2024-07-22,Bengaluru,Delhi,XpressBees,Road,WH-Central,42.79,272.7,230.79,5.0,Delivered
+ORD10310,2024-08-27,2024-08-29,Chennai,Delhi,Delhivery,Road,WH-North,12.06,318.2,132.54,1.0,Delivered
+ORD10510,2024-02-17,2024-02-21,Jaipur,Lucknow,Delhivery,Road,WH-Central,41.81,638.1,291.64,5.0,Delivered
+ORD10179,2024-04-22,2024-04-27,Ahmedabad,Kolkata,Ekart,Rail,WH-North,27.95,332.3,266.85,2.0,Delivered
+ORD10911,2024-10-25,2024-10-31,Bengaluru,Kolkata,,Rail,WH-East,52.06,425.2,368.77,4.0,Delivered
+ORD10809,2024-01-26,2024-02-01,Kolkata,Delhi,DHL,Rail,WH-West,44.81,421.6,317.3,,Delivered
+ORD10820,2024-03-15,2024-03-19,Jaipur,Hyderabad,BlueDart,Road,WH-North,31.83,340.6,212.32,5.0,Delivered
+ORD10069,2024-03-07,,Pune,Mumbai,Ekart,Road,WH-South,4.6,,,4.0,Delayed
+ORD10783,2024-04-19,2024-04-26,Jaipur,Lucknow,Ekart,Rail,WH-South,43.6,607.5,243.08,4.0,Delivered
+ORD10523,2024-06-14,2024-06-15,Hyderabad,Bengaluru,XpressBees,Air,WH-South,20.05,154.3,64.52,5.0,Delivered
+ORD11149,2024-06-23,2024-06-26,Kolkata,Jaipur,BlueDart,Rail,WH-South,29.6,490.4,199.68,5.0,Delivered
+ORD11004,2024-12-19,2024-12-29,Lucknow,Mumbai,XpressBees,Sea,WH-North,15.07,684.0,251.8,4.0,Delivered
+ORD10804,2024-07-08,2024-07-12,Kolkata,Hyderabad,BlueDart,Road,WH-North,27.97,300.3,196.31,4.0,Delivered
+ORD10815,2024-07-14,,Delhi,Pune,XpressBees,Air,WH-West,15.23,112.4,144.03,4.0,Delayed
+ORD10123,2024-12-28,2024-12-31,Lucknow,Bengaluru,XpressBees,Rail,WH-West,41.02,311.0,337.33,2.0,Delivered
+ORD10863,2024-06-08,2024-06-15,ahmedabad,Mumbai,DHL,Rail,WH-Central,36.74,597.7,275.33,5.0,Delivered
+ORD10058,2024-07-28,2024-07-29,Chennai,Mumbai,FedEx,Air,WH-Central,41.72,147.9,247.5,,Delivered
+ORD11138,2024-11-21,2024-11-25,Jaipur,Bengaluru,Delhivery,Road,WH-North,97.35,409.7,522.18,5.0,Delivered
+ORD10363,2024-08-29,2024-09-08,Lucknow,Pune,Delhivery,Sea,WH-East,12.01,828.3,214.22,1.0,Delivered
+ORD10314,2024-11-06,2024-11-11,Kolkata,Pune,Ekart,Rail,WH-North,19.86,510.7,95.63,4.0,Delivered
+ORD10265,2024-12-08,2024-12-09,Chennai,Ahmedabad,DHL,Road,WH-Central,5.55,124.4,138.77,5.0,Delivered
+ORD10833,2024-09-04,2024-09-07,Kolkata,Pune,FedEx,Road,WH-Central,23.87,266.8,252.81,4.0,Delivered
+ORD11073,2024-07-28,2024-08-02,Pune,Jaipur,XpressBees,Rail,WH-South,22.07,340.6,119.11,3.0,Delivered
+ORD10248,2024-01-29,,Mumbai,Delhi,Ekart,Sea,WH-West,16.89,1628.6,297.62,,Delayed
+ORD10380,2024-03-10,2024-03-11,lucknow,Mumbai,Delhivery,Air,WH-East,27.11,,215.65,4.0,Delivered
+ORD10604,2024-10-30,2024-11-03,Delhi,Jaipur,Ekart,Rail,WH-East,24.69,347.9,228.19,3.0,Delivered
+ORD11049,2024-01-20,2024-01-22,Bengaluru,Delhi,DHL,Rail,WH-North,31.81,238.8,257.41,4.0,Delivered
+ORD11069,2024-02-25,2024-02-26,Jaipur,Chennai,BlueDart,Air,WH-East,20.2,101.3,193.22,5.0,Delivered
+ORD10550,2024-12-11,2024-12-15,Jaipur,Pune,BlueDart,Road,WH-Central,16.96,595.5,212.1,3.0,Delivered
+ORD10147,2024-01-02,2024-01-04,Hyderabad,Kolkata,  XpressBees  ,Rail,WH-West,5.57,150.4,137.6,,Delivered
+ORD10251,2024-05-02,2024-05-06,Pune,Ahmedabad,XpressBees,Road,WH-South,66.68,518.8,371.44,4.0,Delivered
+ORD10948,2024-11-28,2024-12-02,Bengaluru,Hyderabad,FedEx,Road,WH-North,79.22,363.7,436.71,4.0,Delivered
+ORD11130,2024-12-01,2024-12-02,Kolkata,Chennai,FedEx,Air,WH-East,31.47,153.6,249.13,5.0,Delivered
+ORD10212,2024-09-03,2024-09-07,Ahmedabad,Jaipur,FedEx,Road,WH-North,12.36,388.7,86.41,4.0,Delivered
+ORD10440,2024-04-16,,Kolkata,Bengaluru,Ekart,Sea,WH-Central,6.89,685.5,127.28,5.0,In Transit
+ORD11047,2024-09-21,2024-09-24,Jaipur,Ahmedabad,FedEx,Rail,WH-South,10.18,251.5,119.7,,Delivered
+ORD10564,2024-11-12,2024-11-16,Hyderabad,Delhi,BlueDart,Road,WH-East,,357.5,132.31,5.0,Delivered
+ORD10330,2024-07-12,2024-07-15,Ahmedabad,Jaipur,DHL,Road,WH-East,46.23,234.8,344.56,5.0,Delivered
+ORD10432,2024-12-05,2024-12-09,hyderabad,Delhi,  FedEx  ,Road,WH-West,20.46,538.5,,5.0,Delivered
+ORD10276,20/11/2024,,Pune,Ahmedabad,Ekart,Sea,WH-North,16.52,923.2,,5.0,Delayed
+ORD11089,2024-04-03,2024-04-05,Hyderabad,Ahmedabad,Delhivery,Road,WH-West,,134.9,,5.0,Delivered
+ORD11081,2024-09-12,2024-09-13,Ahmedabad,Mumbai,BlueDart,Air,WH-East,50.25,134.0,308.66,3.0,Delivered
+ORD11077,2024-03-10,2024-03-13,Lucknow,Jaipur,XpressBees,Road,WH-Central,20.85,437.2,,4.0,Delivered
+ORD11013,2024-05-21,2024-05-25,Lucknow,Delhi,Delhivery,Road,WH-North,4.63,393.3,114.99,3.0,Delivered
+ORD10901,2024-03-21,,Mumbai,Hyderabad,Delhivery,Road,WH-North,27.6,582.2,178.25,,Cancelled
+ORD10448,2024-07-06,2024-07-10,jaipur,Delhi,XpressBees,Road,WH-South,30.72,298.7,262.65,5.0,Delivered
+ORD10385,2024-01-25,,Bengaluru,Delhi,FedEx,Rail,WH-East,15.8,714.9,224.88,4.0,Delayed
+ORD11028,2024-12-16,2024-12-19,Kolkata,Delhi,BlueDart,Road,WH-West,32.09,275.9,,5.0,Delivered
+ORD10524,2024-05-01,2024-05-03,Delhi,Mumbai,Delhivery,Road,WH-East,45.83,373.9,271.35,2.0,Delivered
+ORD10303,2024-10-11,2024-10-12,Chennai,Pune,DHL,Road,WH-North,6.77,90.6,83.52,5.0,Delivered
+ORD10487,2024-11-20,2024-11-22,Ahmedabad,Delhi,FedEx,Air,WH-Central,22.66,200.4,178.93,4.0,Delivered
+ORD11050,2024-10-22,2024-10-25,Lucknow,Delhi,,Road,WH-East,9.07,260.1,47.74,5.0,Delivered
+ORD11139,2024-03-25,2024-03-29,Hyderabad,Kolkata,  Ekart  ,Road,WH-West,30.77,507.2,229.97,3.0,Delivered
+ORD10940,2024-05-15,,Lucknow,Bengaluru,FedEx,Air,WH-North,18.3,100.8,147.9,4.0,Delayed
+ORD10067,2024-11-12,2024-11-13,Mumbai,Ahmedabad,  FedEx  ,Air,WH-North,56.92,107.3,227.75,4.0,Delivered
+ORD10019,2024-11-06,2024-11-08,Mumbai,Kolkata,Ekart,Road,WH-South,16.32,389.7,179.82,2.0,Delivered
+ORD10877,2024-05-31,2024-06-01,Ahmedabad,Jaipur,DHL,Air,WH-North,8.89,155.4,32.66,5.0,Delivered
+ORD10324,2024-05-25,2024-05-29,Hyderabad,Delhi,DHL,Road,WH-West,74.08,629.8,477.32,4.0,Delivered
+ORD10260,2024-05-19,,Delhi,Mumbai,Delhivery,Rail,WH-East,36.25,627.9,304.58,5.0,In Transit
+ORD10130,2024-05-21,2024-05-23,Hyderabad,Delhi,  FedEx  ,Road,WH-East,30.79,237.3,233.38,3.0,Delivered
+ORD10409,2024-01-15,2024-01-18,Mumbai,Delhi,XpressBees,Road,WH-West,23.15,338.3,136.92,1.0,Delivered
+ORD10400,2024-06-11,,Kolkata,Delhi,XpressBees,Road,WH-Central,24.01,531.8,150.59,4.0,In Transit
+ORD10228,2024-09-17,2024-09-23,Mumbai,Lucknow,Delhivery,Rail,WH-North,44.37,763.2,307.75,5.0,Delivered
+ORD10054,2024-06-14,2024-06-17,Chennai,Bengaluru,BlueDart,Road,WH-Central,87.04,416.8,554.38,2.0,Delivered
+ORD10963,2024-11-30,,Bengaluru,Hyderabad,DHL,Air,WH-East,40.84,122.1,265.46,3.0,In Transit
+ORD10931,2024-01-27,2024-02-08,Hyderabad,Mumbai,Ekart,Sea,WH-South,15.27,1241.6,243.05,5.0,Delivered
+ORD11142,2024-09-18,,Hyderabad,Chennai,BlueDart,Road,WH-West,21.18,193.7,215.01,2.0,In Transit
+ORD10150,2024-08-20,2024-08-22,Jaipur,Hyderabad,Ekart,Road,WH-Central,24.69,335.2,221.92,5.0,Delivered
+ORD11018,2024-06-11,2024-06-11,Ahmedabad,Jaipur,DHL,Air,WH-South,15.66,,136.34,4.0,Delivered
+ORD10672,2024-05-09,,Bengaluru,Lucknow,BlueDart,Road,WH-North,12.09,,115.96,4.0,Cancelled
+ORD11037,2024-04-20,2024-04-22,Jaipur,Chennai,BlueDart,Road,WH-South,,252.2,141.1,4.0,Delivered
+ORD11027,2024-05-05,2024-05-09,Chennai,Kolkata,BlueDart,Road,WH-North,31.76,635.0,232.55,1.0,Delivered
+ORD10106,2024-08-13,2024-08-15,Jaipur,Mumbai,  Ekart  ,Road,WH-North,36.5,188.4,263.21,4.0,Delivered
+ORD10743,2024-12-05,2024-12-14,Lucknow,Kolkata,FedEx,Sea,WH-West,5.56,853.2,105.68,2.0,Delivered
+ORD11126,2024-05-23,,Delhi,Ahmedabad,DHL,Road,WH-South,33.08,367.2,245.23,3.0,In Transit
+ORD10443,2024-08-17,2024-08-22,Delhi,Hyderabad,FedEx,Rail,WH-Central,48.96,704.6,322.27,,Delivered
+ORD10749,2024-11-02,,Chennai,Bengaluru,FedEx,Road,WH-West,16.24,655.7,230.91,4.0,Delayed
+ORD10755,2024-04-21,,jaipur,Ahmedabad,FedEx,Road,WH-South,14.55,202.6,124.09,,Delayed
+ORD10024,2024-02-27,2024-03-01,Jaipur,Kolkata,BlueDart,Road,WH-Central,31.67,435.7,162.88,3.0,Delivered
+ORD10811,2024-07-31,2024-08-07,Pune,Chennai,DHL,Rail,WH-South,26.3,966.7,312.2,4.0,Delivered
+ORD10661,2024-04-08,,Jaipur,Hyderabad,XpressBees,Road,WH-North,36.44,185.3,264.57,5.0,Delayed
+ORD10838,2024-11-09,2024-11-11,Pune,Jaipur,BlueDart,Air,WH-Central,22.95,306.1,110.29,,Delivered
+ORD10533,2024-05-10,,Ahmedabad,Bengaluru,  DHL  ,Air,WH-East,45.4,282.3,251.31,2.0,In Transit
+ORD11100,2024-06-03,2024-06-06,Chennai,Jaipur,Delhivery,Road,WH-East,16.65,322.5,105.49,3.0,Delivered
+ORD10082,2024-01-17,,Kolkata,Lucknow,BlueDart,Sea,WH-East,11.5,1517.7,197.22,4.0,In Transit
+ORD10255,2024-10-20,2024-10-21,Bengaluru,Hyderabad,  XpressBees  ,Road,WH-North,24.18,238.2,180.19,4.0,Delivered
+ORD10934,2024-08-04,2024-08-05,Pune,Chennai,BlueDart,Road,WH-North,1235.4409380990523,245.1,246.58,5.0,Delivered
+ORD10869,2024-03-05,2024-03-10,mumbai,Chennai,FedEx,Road,WH-West,19.63,444.6,214.44,4.0,Delivered
+ORD11125,2024-05-27,,Delhi,Kolkata,FedEx,Road,WH-West,21.01,429.9,171.41,1.0,In Transit
+ORD10892,2024-08-10,2024-08-10,bengaluru,Delhi,,Air,WH-North,6.11,102.5,48.72,4.0,Delivered
+ORD10873,2024-11-18,2024-11-23,lucknow,Bengaluru,FedEx,Road,WH-South,23.68,379.6,204.24,5.0,Delivered
+ORD10613,2024-10-05,,Delhi,Ahmedabad,XpressBees,Road,WH-Central,37.5,282.5,276.89,5.0,Cancelled
+ORD10379,2024-05-03,2024-05-04,Mumbai,Lucknow,XpressBees,Air,WH-West,30.01,155.3,136.16,5.0,Delivered
+ORD10076,2024-02-07,2024-02-12,Kolkata,Bengaluru,XpressBees,Road,WH-East,15.16,638.5,178.0,2.0,Delivered
+ORD10388,2024-08-07,2024-08-12,Bengaluru,Chennai,BlueDart,Rail,WH-South,9.15,727.1,163.57,5.0,Delivered
+ORD10936,2024-06-28,2024-07-01,Ahmedabad,Lucknow,Delhivery,Road,WH-West,31.33,211.8,267.8,4.0,Delivered
+ORD10406,2024-06-24,2024-06-25,Mumbai,Pune,Delhivery,Air,WH-West,,200.4,146.27,4.0,Delivered
+ORD10291,2024-07-12,2024-07-13,Chennai,Pune,Ekart,Air,WH-Central,3.56,158.5,30.34,2.0,Delivered
+ORD10794,2024-03-01,2024-03-05,Lucknow,Ahmedabad,XpressBees,Rail,WH-North,43.6,419.1,235.38,5.0,Delivered
+ORD10715,2024-10-17,,Chennai,Jaipur,Delhivery,Rail,WH-Central,24.34,,231.38,5.0,Delayed
+ORD10110,11/11/2024,2024-11-12,Delhi,Bengaluru,BlueDart,Air,WH-Central,30.8,176.1,227.41,5.0,Delivered
+ORD10624,2024-06-09,,Bengaluru,Kolkata,  Delhivery  ,Road,WH-West,58.1,213.0,341.97,1.0,In Transit
+ORD11084,2024-11-19,2024-11-20,Hyderabad,Pune,XpressBees,Road,WH-East,34.42,167.1,284.59,4.0,Delivered
+ORD11074,2024-01-08,2024-01-12,Delhi,Ahmedabad,Delhivery,Road,WH-East,27.38,375.4,211.94,,Delivered
+ORD10246,2024-08-30,,Kolkata,Hyderabad,BlueDart,Road,WH-West,27.72,394.6,212.9,3.0,In Transit
+ORD10145,2024-10-19,2024-10-22,Chennai,Jaipur,DHL,Road,WH-North,30.4,434.5,165.54,3.0,Delivered
+ORD11133,2024-04-22,2024-04-28,Lucknow,Mumbai,XpressBees,Road,WH-South,18.39,460.1,108.88,5.0,Delivered
+ORD10128,2024-02-26,2024-03-01,Chennai,Lucknow,Ekart,Road,WH-Central,27.4,477.5,247.99,3.0,Delivered
+ORD11116,2024-05-06,2024-05-10,Ahmedabad,Lucknow,XpressBees,Road,WH-West,8.71,396.3,155.75,5.0,Delivered
+ORD10622,2024-06-07,2024-06-12,Mumbai,Delhi,FedEx,Rail,WH-South,69.53,726.0,397.93,3.0,Delivered
+ORD11198,2024-05-13,,Chennai,Bengaluru,FedEx,Road,WH-East,6.5,297.5,,4.0,Delayed
+ORD10460,2024-10-15,2024-10-16,Ahmedabad,Chennai,DHL,Air,WH-East,37.65,106.6,205.75,5.0,Delivered
+ORD10486,2024-04-23,2024-04-24,Bengaluru,Ahmedabad,XpressBees,Air,WH-Central,19.72,176.3,210.95,4.0,Delivered
+ORD11155,2024-02-06,2024-02-08,Hyderabad,Bengaluru,Ekart,Road,WH-South,31.93,376.2,245.97,1.0,Delivered
+ORD10090,2024-05-17,2024-05-20,mumbai,Lucknow,BlueDart,Road,WH-Central,14.13,333.9,126.25,3.0,Delivered
+ORD10492,2024-08-12,,Ahmedabad,Mumbai,FedEx,Sea,WH-Central,34.26,609.0,203.31,5.0,Delayed
+ORD10170,2024-12-24,2024-12-25,Bengaluru,Chennai,  BlueDart  ,Air,WH-West,49.89,173.4,370.65,4.0,Delivered
+ORD10056,2024-08-30,2024-09-01,Bengaluru,Hyderabad,Ekart,Air,WH-North,32.66,277.1,,4.0,Delivered
+ORD10404,2024-04-13,2024-04-15,Hyderabad,Ahmedabad,XpressBees,Road,WH-East,36.92,152.1,229.85,5.0,Delivered
+ORD10599,2024-01-05,2024-01-06,Hyderabad,Jaipur,FedEx,Air,WH-North,24.68,166.5,201.71,1.0,Delivered
+ORD11015,2024-07-30,2024-08-05,pune,Hyderabad,Ekart,Road,WH-West,22.65,532.4,156.42,3.0,Delivered
+ORD10097,2024-03-29,2024-04-03,Ahmedabad,Hyderabad,DHL,Road,WH-West,106.33,579.3,573.92,1.0,Delivered
+ORD10826,2024-09-20,2024-09-25,Jaipur,Kolkata,BlueDart,Road,WH-Central,11.0,649.0,126.84,3.0,Delivered
+ORD10479,2024-01-19,2024-01-21,Lucknow,Delhi,XpressBees,Road,WH-South,24.81,239.8,207.67,3.0,Delivered
+ORD10323,2024-07-10,2024-07-14,Bengaluru,Jaipur,FedEx,Rail,WH-East,9.59,515.2,175.11,5.0,Delivered
+ORD11093,2024-10-25,2024-10-27,Lucknow,Jaipur,Ekart,Air,WH-East,20.57,158.0,175.29,2.0,Delivered
+ORD10098,2024-01-13,2024-01-16,Mumbai,Delhi,BlueDart,Road,WH-West,13.34,399.0,181.51,3.0,Delivered
+ORD10424,2024-08-10,2024-08-16,Pune,Lucknow,BlueDart,Rail,WH-South,68.89,662.2,447.41,5.0,Delivered
+ORD10296,2024-06-16,2024-06-18,Ahmedabad,Hyderabad,  Ekart  ,Road,WH-North,33.83,401.2,226.86,5.0,Delivered
+ORD10737,2024-05-27,2024-06-07,Mumbai,Chennai,Delhivery,Sea,WH-South,8.79,1116.2,240.6,5.0,Delivered
+ORD11183,2024-06-17,2024-06-23,ahmedabad,Chennai,FedEx,Sea,WH-West,7.4,848.6,148.38,5.0,Delivered
+ORD10902,2024-07-30,2024-08-01,Jaipur,Kolkata,FedEx,Air,WH-South,10.71,143.0,152.76,3.0,Delivered
+ORD10601,2024-01-21,2024-01-24,Delhi,Chennai,Delhivery,Road,WH-North,22.05,363.2,141.56,3.0,Delivered
+ORD10999,28/08/2024,2024-09-03,Mumbai,Lucknow,Delhivery,Road,WH-West,3.43,586.3,140.9,5.0,Delivered
+ORD10395,2024-03-01,,Ahmedabad,Delhi,BlueDart,Road,WH-West,21.63,521.1,171.57,2.0,In Transit
+ORD10426,2024-10-07,2024-10-08,pune,Hyderabad,XpressBees,Air,WH-South,12.19,174.0,94.91,4.0,Delivered
+ORD11180,2024-05-13,2024-05-15,Lucknow,Delhi,FedEx,Road,WH-East,,256.3,251.61,3.0,Delivered
+ORD11038,2024-09-04,2024-09-09,Bengaluru,Mumbai,BlueDart,Road,WH-North,62.3,343.8,443.8,4.0,Delivered
+ORD10252,2024-07-29,,Delhi,Bengaluru,DHL,Road,WH-South,2374.393910719713,375.7,459.18,2.0,Delayed
+ORD10238,2024-08-06,2024-08-11,Hyderabad,Lucknow,DHL,Road,WH-West,21.06,667.1,209.21,5.0,Delivered
+ORD10844,2024-07-24,2024-07-26,Ahmedabad,Bengaluru,Ekart,Road,WH-North,27.04,225.8,224.61,5.0,Delivered
+ORD10845,2024-06-19,2024-06-23,Lucknow,Hyderabad,Delhivery,Road,WH-South,26.36,577.0,260.29,1.0,Delivered
+ORD10554,2024-05-18,2024-05-28,Chennai,Lucknow,DHL,Rail,WH-West,25.9,1038.1,,5.0,Delivered
+ORD10545,2024-12-21,2024-12-25,Pune,Mumbai,FedEx,Road,WH-South,39.66,549.7,248.96,5.0,Delivered
+ORD10250,2024-01-07,2024-01-10,Delhi,Pune,XpressBees,Road,WH-West,13.62,267.6,82.36,4.0,Delivered
+ORD10739,2024-01-09,,Pune,Lucknow,Ekart,Air,WH-South,17.18,119.1,90.68,5.0,Delayed
+ORD10964,2024-02-02,2024-02-05,Ahmedabad,Bengaluru,Delhivery,Road,WH-East,103.64,381.1,6695.8357254628345,4.0,Delivered
+ORD10198,2024-03-21,2024-03-24,Pune,Kolkata,BlueDart,Road,WH-South,66.05,362.6,357.09,5.0,Delivered
+ORD10897,2024-12-21,2024-12-25,Bengaluru,Kolkata,Delhivery,Road,WH-West,35.88,335.3,219.41,2.0,Delivered
+ORD11070,2024-11-30,,Mumbai,Hyderabad,Ekart,Road,WH-West,12.18,103.3,161.53,4.0,In Transit
+ORD10989,2024-08-11,2024-08-16,Jaipur,Bengaluru,DHL,Road,WH-South,25.19,398.0,167.65,4.0,Delivered
+ORD11040,2024-04-02,2024-04-06,Pune,Mumbai,Delhivery,Road,WH-West,22.27,508.1,215.6,3.0,Delivered
+ORD10243,2024-04-02,2024-04-05,Ahmedabad,Bengaluru,Delhivery,Road,WH-Central,65.63,437.4,414.46,5.0,Delivered
+ORD10066,2024-06-24,2024-06-29,Bengaluru,Delhi,Delhivery,Road,WH-East,24.65,512.7,206.33,3.0,Delivered
+ORD11167,2024-05-28,2024-06-02,Chennai,Kolkata,Ekart,Rail,WH-Central,,449.6,154.29,4.0,Delivered
+ORD10933,2024-04-11,2024-04-14,Bengaluru,Ahmedabad,BlueDart,Road,WH-Central,27.49,239.2,231.68,5.0,Delivered
+ORD10359,2024-12-06,2024-12-21,Mumbai,Chennai,Ekart,Sea,WH-North,22.2,1807.6,321.21,5.0,Delivered
+ORD10095,2024-03-08,2024-03-15,kolkata,Jaipur,FedEx,Sea,WH-West,72.03,808.9,498.89,3.0,Delivered
+ORD11189,2024-10-11,,Pune,Lucknow,XpressBees,Road,WH-South,37.07,292.5,233.95,4.0,Cancelled
+ORD11033,2024-09-10,2024-09-11,Delhi,Pune,Delhivery,Air,WH-Central,21.65,159.5,,4.0,Delivered
+ORD10521,2024-07-22,,Bengaluru,Lucknow,Ekart,Road,WH-South,15.95,428.1,145.83,5.0,Cancelled
+ORD10974,21/01/2024,,Lucknow,Hyderabad,BlueDart,Air,WH-West,11.91,140.8,116.9,3.0,In Transit
+ORD10665,2024-03-21,,Ahmedabad,Bengaluru,XpressBees,Rail,WH-South,17.2,728.4,177.66,4.0,Delayed
+ORD10361,2024-05-14,2024-05-27,Chennai,Mumbai,,Sea,WH-Central,6.76,1248.5,130.17,5.0,Delivered
+ORD10484,2024-04-03,2024-04-11,Lucknow,Delhi,FedEx,Rail,WH-East,50.53,1048.3,345.11,4.0,Delivered
+ORD10311,2024-05-08,2024-05-12,Pune,Chennai,DHL,Road,WH-South,70.87,562.5,399.24,4.0,Delivered
+ORD10842,2024-09-20,2024-09-23,Lucknow,Delhi,XpressBees,Road,WH-North,9.99,263.4,,3.0,Delivered
+ORD10413,2024-07-15,2024-07-24,Pune,Hyderabad,Delhivery,Sea,WH-East,80.94,1378.5,505.24,3.0,Delivered
+ORD10031,2024-07-03,2024-07-13,Bengaluru,Lucknow,XpressBees,Sea,WH-West,48.25,922.0,330.04,5.0,Delivered
+ORD10765,2024-03-01,2024-03-06,Jaipur,Bengaluru,Delhivery,Road,WH-South,12.57,626.7,175.84,4.0,Delivered
+ORD10458,2024-01-03,2024-01-07,Jaipur,Mumbai,DHL,Road,WH-North,48.32,349.2,316.45,5.0,Delivered
+ORD10339,2024-09-09,2024-09-12,Jaipur,Chennai,BlueDart,Road,WH-North,48.89,240.8,241.07,4.0,Delivered
+ORD10286,2024-08-26,,Bengaluru,Ahmedabad,FedEx,Rail,WH-South,14.97,520.2,122.31,4.0,In Transit
+ORD10239,2024-12-08,2024-12-12,Chennai,Ahmedabad,BlueDart,Road,WH-East,11.37,579.9,173.41,4.0,Delivered
+ORD10949,2024-07-16,2024-07-26,mumbai,Kolkata,FedEx,Rail,WH-Central,15.15,1172.3,227.21,5.0,Delivered
+ORD10139,2024-03-16,2024-03-19,Ahmedabad,Lucknow,BlueDart,Road,WH-South,,426.7,185.94,4.0,Delivered
+ORD10848,2024-03-01,,Lucknow,Chennai,BlueDart,Sea,WH-Central,44.51,1993.1,414.46,,In Transit
+ORD11025,2024-12-09,2024-12-10,Jaipur,Mumbai,Delhivery,Air,WH-West,2.56,110.7,-19.92,5.0,Delivered
+ORD10900,2024-01-31,2024-02-04,Jaipur,Mumbai,Delhivery,Road,WH-East,40.75,505.3,287.62,4.0,Delivered
+ORD10731,2024-12-14,2024-12-18,Kolkata,Mumbai,XpressBees,Road,WH-South,5.8,429.1,103.03,4.0,Delivered
+ORD10264,2024-11-05,2024-11-06,Mumbai,Chennai,FedEx,Air,WH-South,21.48,150.9,157.26,1.0,Delivered
+ORD10274,2024-12-22,2024-12-27,Mumbai,Kolkata,Ekart,Road,WH-West,66.77,493.5,361.72,4.0,Delivered
+ORD11094,2024-01-23,2024-02-02,Mumbai,Chennai,DHL,Sea,WH-East,39.04,1022.6,289.1,3.0,Delivered
+ORD10444,2024-03-29,2024-04-03,Mumbai,Chennai,Delhivery,Rail,WH-West,27.77,753.4,296.18,4.0,Delivered
+ORD10039,2024-07-31,2024-08-04,Bengaluru,Pune,Delhivery,Road,WH-East,50.94,387.4,305.9,5.0,Delivered
+ORD10021,2024-03-11,2024-03-16,Lucknow,Pune,BlueDart,Rail,WH-East,13.91,746.6,175.06,4.0,Delivered
+ORD10705,2024-04-23,,Delhi,Kolkata,BlueDart,Rail,WH-North,38.88,312.8,211.73,5.0,Cancelled
+ORD10517,2024-10-22,,lucknow,Bengaluru,BlueDart,Road,WH-South,38.47,224.4,172.07,4.0,Delayed
+ORD10354,2024-04-08,2024-04-12,Kolkata,Bengaluru,XpressBees,Road,WH-North,14.62,422.6,166.46,5.0,Delivered
+ORD10297,2024-08-27,2024-08-31,Kolkata,Chennai,XpressBees,Road,WH-East,34.69,266.5,188.92,4.0,Delivered
+ORD11076,2024-04-27,2024-04-29,Jaipur,Bengaluru,Delhivery,Road,WH-North,78.27,182.3,355.23,1.0,Delivered
+ORD10839,2024-03-24,,Delhi,Chennai,Delhivery,Air,WH-West,41.05,262.9,188.87,2.0,Delayed
+ORD10924,2024-09-03,2024-09-08,Jaipur,Bengaluru,DHL,Road,WH-North,2.61,762.7,117.39,,Delivered
+ORD10122,09/05/2024,2024-05-13,Bengaluru,Lucknow,BlueDart,Road,WH-South,12.86,501.2,157.32,5.0,Delivered
+ORD11091,2024-08-04,2024-08-11,Hyderabad,Jaipur,DHL,Rail,WH-East,9.32,827.4,104.65,3.0,Delivered
+ORD10417,2024-11-12,2024-11-14,Delhi,Pune,DHL,Road,WH-East,42.78,200.4,246.87,4.0,Delivered
+ORD10966,2024-08-22,2024-08-23,Pune,Jaipur,BlueDart,Air,WH-North,,132.9,412.01,1.0,Delivered
+ORD10157,2024-09-06,2024-09-10,Kolkata,Chennai,  Delhivery  ,Road,WH-North,32.97,407.8,232.39,4.0,Delivered
+ORD11063,2024-09-21,2024-09-22,Kolkata,Jaipur,Delhivery,Air,WH-North,,216.6,300.55,4.0,Delivered
+ORD10189,2024-05-04,2024-05-05,Delhi,Chennai,Delhivery,Road,WH-East,42.46,115.6,333.28,4.0,Delivered
+ORD10589,2024-10-11,2024-10-15,Chennai,Mumbai,BlueDart,Rail,WH-Central,59.8,370.3,360.33,2.0,Delivered
+ORD10760,2024-01-22,2024-01-24,Hyderabad,Delhi,FedEx,Road,WH-Central,63.83,281.3,326.85,4.0,Delivered
+ORD11062,2024-12-25,2024-12-28,bengaluru,Lucknow,Ekart,Rail,WH-West,19.95,254.7,138.98,,Delivered
+ORD10242,2024-08-05,,Ahmedabad,Delhi,DHL,Road,WH-West,4.3,485.2,159.17,4.0,In Transit
+ORD10884,2024-07-04,2024-07-08,Lucknow,Mumbai,  FedEx  ,Road,WH-Central,26.41,362.8,,5.0,Delivered
+ORD10620,2024-04-09,2024-04-10,Bengaluru,Mumbai,XpressBees,Air,WH-West,79.88,105.1,408.01,5.0,Delivered
+ORD10650,2024-04-07,2024-04-10,Mumbai,Pune,DHL,Road,WH-West,0.69,267.5,70.72,5.0,Delivered
+ORD10503,2024-03-26,,Mumbai,Bengaluru,  DHL  ,Road,WH-Central,41.94,331.5,237.56,5.0,In Transit
+ORD10922,2024-06-16,2024-06-24,Pune,Delhi,Delhivery,Rail,WH-East,41.34,989.7,300.19,4.0,Delivered
+ORD10159,2024-04-04,2024-04-08,Bengaluru,Chennai,BlueDart,Road,WH-Central,16.77,415.2,120.55,3.0,Delivered
+ORD10882,2024-09-07,2024-09-07,Chennai,Ahmedabad,Ekart,Air,WH-North,27.38,52.0,148.21,5.0,Delivered
+ORD10537,2024-12-14,2024-12-17,Mumbai,Chennai,XpressBees,Road,WH-West,6.72,497.1,158.7,,Delivered
+ORD10240,2024-10-21,2024-10-23,bengaluru,Kolkata,DHL,Road,WH-West,30.4,252.8,218.91,5.0,Delivered
+ORD10013,2024-03-04,2024-03-08,Bengaluru,Chennai,FedEx,Rail,WH-South,68.63,308.5,352.18,5.0,Delivered
+ORD10475,2024-04-19,2024-04-22,Bengaluru,Pune,Ekart,Road,WH-South,6.91,314.8,113.92,2.0,Delivered
+ORD11159,2024-09-01,,Delhi,Pune,Ekart,Air,WH-South,85.04,214.8,400.83,3.0,In Transit
+ORD10928,2024-10-26,2024-10-31,Chennai,Pune,FedEx,Road,WH-East,22.64,687.4,181.77,4.0,Delivered
+ORD10795,2024-07-12,2024-07-16,ahmedabad,Jaipur,XpressBees,Road,WH-Central,14.45,414.3,112.28,4.0,Delivered
+ORD10355,2024-01-23,2024-01-27,Chennai,Ahmedabad,XpressBees,Road,WH-South,,368.8,124.5,5.0,Delivered
+ORD11058,2024-08-05,2024-08-19,Chennai,Pune,XpressBees,Sea,WH-East,26.9,1879.6,303.09,4.0,Delivered
+ORD10334,2024-10-31,2024-11-11,Delhi,Pune,Ekart,Sea,WH-South,6.8,896.6,121.72,3.0,Delivered
+ORD10688,2024-05-22,2024-05-27,mumbai,Bengaluru,FedEx,Road,WH-West,42.97,735.3,285.63,3.0,Delivered
+ORD10184,2024-09-08,,lucknow,Jaipur,XpressBees,Air,WH-North,9.27,62.8,80.31,5.0,In Transit
+ORD10823,2024-01-14,2024-01-26,Delhi,Bengaluru,BlueDart,Sea,WH-North,11.47,1027.3,,5.0,Delivered
+ORD11143,2024-05-23,2024-05-29,Pune,Ahmedabad,Delhivery,Rail,WH-Central,18.44,772.1,263.38,5.0,Delivered
+ORD11001,2024-07-17,2024-07-21,Ahmedabad,Lucknow,BlueDart,Road,WH-West,27.78,464.6,232.1,5.0,Delivered
+ORD10187,2024-06-27,,Delhi,Pune,DHL,Road,WH-North,24.03,364.9,82.38,5.0,Cancelled
+ORD10941,2024-09-22,2024-09-26,Jaipur,Ahmedabad,DHL,Road,WH-North,,389.1,,4.0,Delivered
+ORD10284,2024-05-18,2024-05-21,Jaipur,Lucknow,DHL,Road,WH-South,17.26,254.8,198.34,5.0,Delivered
+ORD10899,2024-01-16,2024-01-17,Ahmedabad,Mumbai,Ekart,Road,WH-North,17.07,226.4,132.65,5.0,Delivered
+ORD10165,2024-04-24,,Hyderabad,Delhi,XpressBees,Air,WH-East,60.16,118.9,325.51,4.0,Delayed
+ORD10347,2024-06-21,2024-06-24,Delhi,Jaipur,  DHL  ,Road,WH-North,29.78,366.8,183.08,4.0,Delivered
+ORD10298,2024-07-19,,Bengaluru,Mumbai,DHL,Road,WH-East,54.83,408.8,315.99,4.0,Cancelled
+ORD10535,2024-06-04,2024-06-09,Jaipur,Hyderabad,Delhivery,Road,WH-South,2.92,535.9,95.26,4.0,Delivered
+ORD10229,2024-08-30,2024-09-03,Jaipur,Lucknow,Ekart,Road,WH-West,54.25,507.8,327.43,4.0,Delivered
+ORD10041,2024-10-07,2024-10-12,Kolkata,Pune,DHL,Rail,WH-South,5.06,741.1,77.31,5.0,Delivered
+ORD10868,2024-06-18,2024-06-22,Chennai,Mumbai,BlueDart,Road,WH-East,8.82,581.3,137.55,5.0,Delivered
+ORD10748,2024-10-08,2024-10-09,Pune,Chennai,BlueDart,Air,WH-North,78.47,98.7,398.36,5.0,Delivered
+ORD11177,2024-08-16,,Hyderabad,Pune,BlueDart,Road,WH-North,55.58,869.6,379.55,5.0,Delayed
+ORD10446,2024-02-04,2024-02-08,Ahmedabad,Chennai,Delhivery,Road,WH-West,28.19,301.8,270.23,3.0,Delivered
+ORD10349,2024-10-30,2024-11-02,hyderabad,Kolkata,Delhivery,Road,WH-West,37.49,400.4,218.32,,Delivered
+ORD10045,2024-03-17,2024-03-18,Delhi,Pune,Ekart,Road,WH-West,47.22,175.9,206.0,5.0,Delivered
+ORD11182,2024-05-07,2024-05-11,Chennai,Pune,BlueDart,Road,WH-East,36.9,281.4,288.03,4.0,Delivered
+ORD10683,2024-05-07,2024-05-12,Ahmedabad,Bengaluru,FedEx,Rail,WH-West,14.12,424.4,91.4,1.0,Delivered
+ORD10108,2024-09-07,2024-09-11,Lucknow,Chennai,Ekart,Road,WH-Central,33.58,415.2,251.44,2.0,Delivered
+ORD10029,2024-02-13,2024-02-18,Lucknow,Delhi,DHL,Road,WH-North,65.0,610.9,,3.0,Delivered
+ORD10181,2024-07-02,2024-07-07,Delhi,Chennai,DHL,Rail,WH-South,19.34,651.0,,5.0,Delivered
+ORD10621,2024-08-22,2024-08-27,Mumbai,Chennai,XpressBees,Road,WH-South,17.88,476.0,193.8,3.0,Delivered
+ORD10634,2024-11-23,2024-11-28,Kolkata,Pune,Delhivery,Road,WH-West,40.97,363.8,,4.0,Delivered
+ORD10104,2024-02-05,2024-02-10,Kolkata,Pune,Ekart,Road,WH-West,4.75,670.4,135.74,4.0,Delivered
+ORD10060,2024-11-27,2024-11-28,Lucknow,Kolkata,FedEx,Road,WH-North,66.6,253.3,381.16,4.0,Delivered
+ORD10658,2024-02-19,2024-02-23,Kolkata,Lucknow,Delhivery,Road,WH-East,23.57,458.4,232.77,5.0,Delivered
+ORD11107,2024-10-28,2024-11-09,Lucknow,Hyderabad,Ekart,Sea,WH-Central,8.55,887.1,163.47,4.0,Delivered
+ORD10490,2024-11-12,2024-11-13,Hyderabad,Ahmedabad,FedEx,Air,WH-East,73.78,224.3,370.75,3.0,Delivered
+ORD10315,2024-10-10,2024-10-15,Jaipur,Delhi,,Road,WH-Central,47.4,601.3,294.59,5.0,Delivered
+ORD10381,2024-08-07,2024-08-08,Pune,Bengaluru,FedEx,Air,WH-South,2.74,209.5,64.31,2.0,Delivered
+ORD10422,2024-07-03,,Ahmedabad,Hyderabad,DHL,Road,WH-North,33.18,407.8,186.83,2.0,Cancelled
+ORD11186,2024-07-04,2024-07-08,Lucknow,Hyderabad,FedEx,Road,WH-South,29.09,676.0,220.77,3.0,Delivered
+ORD10445,2024-09-26,2024-09-26,Mumbai,Delhi,Ekart,Air,WH-North,23.1,117.7,161.07,4.0,Delivered
+ORD10663,2024-05-26,2024-05-29,Kolkata,Mumbai,BlueDart,Road,WH-East,23.04,503.4,192.59,4.0,Delivered
+ORD11024,2024-01-01,2024-01-01,Chennai,Jaipur,Ekart,Air,WH-North,57.07,98.0,385.76,4.0,Delivered
+ORD10779,2024-11-29,2024-12-02,Chennai,Jaipur,Delhivery,Road,WH-Central,47.98,473.7,301.03,3.0,Delivered
+ORD10626,2024-09-04,2024-09-22,Hyderabad,Lucknow,Delhivery,Sea,WH-South,13.11,2315.9,281.89,1.0,Delivered
+ORD11112,2024-05-23,2024-05-26,Hyderabad,Lucknow,XpressBees,Road,WH-Central,24.62,515.0,150.42,4.0,Delivered
+ORD11101,2024-04-30,,Ahmedabad,Mumbai,DHL,Sea,WH-South,33.71,1481.1,335.4,5.0,Delayed
+ORD10268,2024-03-15,2024-03-19,Mumbai,Ahmedabad,FedEx,Road,WH-East,16.01,558.8,173.51,1.0,Delivered
+ORD10929,2024-12-27,2024-12-28,Delhi,Chennai,FedEx,Road,WH-North,17.56,125.6,219.41,3.0,Delivered
+ORD11147,2024-02-27,,Ahmedabad,Bengaluru,  FedEx  ,Rail,WH-South,25.13,1024.4,264.05,5.0,Delayed
+ORD11119,2024-11-10,2024-11-14,Ahmedabad,Jaipur,DHL,Road,WH-East,0.67,610.7,130.91,1.0,Delivered
+ORD10011,2024-04-11,2024-04-14,Delhi,Bengaluru,FedEx,Road,WH-Central,31.31,373.7,266.5,3.0,Delivered
+ORD10114,2024-01-10,2024-01-12,lucknow,Ahmedabad,Delhivery,Road,WH-South,5.52,277.9,190.22,5.0,Delivered
+ORD10843,2024-07-27,,Lucknow,Ahmedabad,FedEx,Road,WH-North,43.22,317.6,244.56,3.0,Delayed
+ORD10352,2024-04-24,2024-04-24,Lucknow,Ahmedabad,BlueDart,Air,WH-North,17.79,99.7,130.87,5.0,Delivered
+ORD10335,2024-07-16,2024-07-28,Jaipur,Kolkata,DHL,Sea,WH-Central,6.96,1271.1,203.22,3.0,Delivered
+ORD10773,2024-04-04,,Hyderabad,Delhi,DHL,Road,WH-South,16.63,295.0,201.03,5.0,Delayed
+ORD10690,2024-08-04,2024-08-11,Kolkata,Lucknow,BlueDart,Rail,WH-North,35.63,499.9,314.68,4.0,Delivered
+ORD10790,2024-02-09,2024-02-10,Pune,Mumbai,Delhivery,Air,WH-Central,,155.8,114.38,1.0,Delivered
+ORD10531,2024-04-06,,Delhi,Pune,XpressBees,Air,WH-East,13.62,,146.21,5.0,In Transit
+ORD10867,2024-10-08,2024-10-15,Mumbai,Kolkata,Ekart,Rail,WH-East,47.38,901.0,391.42,2.0,Delivered
+ORD10169,2024-11-11,,Pune,Delhi,XpressBees,Road,WH-East,45.26,500.1,284.8,5.0,Cancelled
+ORD10239,2024-12-08,2024-12-12,Chennai,Ahmedabad,BlueDart,Road,WH-East,11.37,579.9,173.41,4.0,Delivered
+ORD11184,2024-12-12,,jaipur,Delhi,XpressBees,Sea,WH-South,24.94,1128.6,261.44,5.0,Delayed
+ORD10073,2024-06-03,2024-06-05,Lucknow,Kolkata,FedEx,Air,WH-Central,32.91,148.4,205.23,,Delivered
+ORD11086,2024-01-26,,Chennai,Jaipur,Ekart,Air,WH-East,17.26,121.0,185.84,,Cancelled
+ORD10761,2024-12-27,2024-12-31,bengaluru,Kolkata,Ekart,Road,WH-Central,42.98,,238.48,5.0,Delivered
+ORD10740,2024-01-27,2024-01-28,Hyderabad,Lucknow,FedEx,Road,WH-North,,118.8,324.63,4.0,Delivered
+ORD10750,2024-09-01,2024-09-04,Jaipur,Kolkata,Delhivery,Road,WH-South,38.26,374.7,259.95,4.0,Delivered
+ORD10741,2024-04-17,2024-04-22,Ahmedabad,Bengaluru,Ekart,Rail,WH-North,34.38,744.1,314.82,5.0,Delivered
+ORD10830,2024-08-23,2024-08-28,Bengaluru,Pune,DHL,Rail,WH-West,31.72,599.2,278.29,5.0,Delivered
+ORD10047,2024-05-09,2024-05-11,Kolkata,Pune,BlueDart,Road,WH-Central,8.59,250.0,113.56,3.0,Delivered
+ORD10762,2024-05-22,2024-06-04,Bengaluru,Hyderabad,Delhivery,Sea,WH-South,39.61,1448.6,333.32,4.0,Delivered
+ORD10591,2024-04-07,2024-04-10,Chennai,Mumbai,Ekart,Road,WH-East,65.44,343.7,455.99,3.0,Delivered
+ORD10807,2024-03-19,2024-03-20,Hyderabad,Jaipur,DHL,Air,WH-Central,26.07,222.9,155.43,5.0,Delivered
+ORD11083,2024-09-09,2024-09-10,Chennai,Ahmedabad,FedEx,Air,WH-South,12.6,102.5,53.98,4.0,Delivered
+ORD10505,2024-12-20,2024-12-22,Pune,Delhi,DHL,Rail,WH-South,41.07,348.5,,3.0,Delivered
+ORD11044,2024-11-07,,Chennai,Pune,BlueDart,Road,WH-West,49.77,445.6,319.1,4.0,Cancelled
+ORD10652,2024-11-03,,Jaipur,Ahmedabad,BlueDart,Road,WH-East,39.94,640.0,249.0,4.0,In Transit
+ORD10192,2024-07-24,,Pune,Chennai,XpressBees,Road,WH-Central,90.89,425.7,446.77,5.0,Cancelled
+ORD10244,2024-03-31,2024-04-05,Ahmedabad,Kolkata,Delhivery,Rail,WH-West,15.01,593.3,233.78,5.0,Delivered
+ORD10059,2024-10-18,2024-10-24,Chennai,Jaipur,FedEx,Road,WH-East,17.6,730.2,165.51,4.0,Delivered
+ORD10176,2024-08-15,2024-08-18,Mumbai,Lucknow,Ekart,Road,WH-North,1.07,368.6,26.31,4.0,Delivered
+ORD10449,2024-10-01,,Kolkata,Jaipur,DHL,Road,WH-North,9.31,,125.84,1.0,Delayed
+ORD10055,2024-05-07,2024-05-11,Jaipur,Ahmedabad,XpressBees,Road,WH-East,26.77,274.6,211.95,5.0,Delivered
+ORD10919,2024-12-04,,Kolkata,Mumbai,Delhivery,Road,WH-South,51.2,525.7,314.4,5.0,Delayed
+ORD11092,2024-11-06,,Pune,Ahmedabad,FedEx,Air,WH-South,18.1,138.5,124.45,5.0,Delayed
+ORD11192,2024-10-02,2024-10-03,Mumbai,Lucknow,  BlueDart  ,Air,WH-South,14.27,143.3,105.14,5.0,Delivered
+ORD10664,2024-11-28,2024-12-03,Jaipur,Chennai,BlueDart,Road,WH-West,56.25,569.9,349.07,3.0,Delivered
+ORD11059,2024-03-04,2024-03-06,Ahmedabad,Bengaluru,Delhivery,Road,WH-North,37.2,216.2,201.3,3.0,Delivered
+ORD10641,2024-11-09,2024-11-10,Pune,Bengaluru,BlueDart,Air,WH-West,24.71,76.8,138.73,5.0,Delivered
